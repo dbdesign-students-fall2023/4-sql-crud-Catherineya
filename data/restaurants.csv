@@ -1,0 +1,1001 @@
+restaurant_id,name,category,price_tier,neighborhood,opening_time,closing_time,average_rating,good_for_kids
+1,The German Beer Hall,American,cheap,Hell's Kitchen,10:09 AM,7:12 PM,0.4,true
+2,The Malaysian Hawker Stall,Mexican,cheap,Bushwick,11:51 AM,9:12 PM,1.0,false
+3,The Ethiopian Injera,French,cheap,Bushwick,6:17 AM,8:26 PM,5.0,true
+4,The Irish Pub,Indian,cheap,Astoria,6:25 AM,10:21 AM,0.6,true
+5,Bella Italia,Mexican,expensive,Harlem,8:23 AM,11:21 AM,2.9,true
+6,The American Diner,Korean,expensive,Astoria,10:13 AM,7:05 PM,4.3,true
+7,The Vietnamese Pho,Italian,expensive,Williamsburg,11:19 AM,8:07 PM,0.1,false
+8,The Noodle Bar,Thai,expensive,Bedford-Stuyvesant,8:18 AM,9:08 PM,2.7,true
+9,The Dutch Pancake House,Indian,cheap,Bushwick,9:54 AM,8:21 PM,2.0,false
+10,The Mexican Cantina,Chinese,expensive,Lower East Side,8:26 AM,3:18 PM,3.3,false
+11,The Pancake Palace,American,expensive,Bedford-Stuyvesant,11:44 AM,7:20 PM,0.2,true
+12,The Canadian Maple,Indian,expensive,Murray Hill,9:08 AM,6:03 PM,4.5,true
+13,The Mediterranean Grill,Mediterranean,expensive,Upper East Side,9:59 AM,7:51 PM,3.5,false
+14,Cafe Delight,Indian,expensive,Lower East Side,8:58 AM,8:51 PM,4.0,true
+15,The Sweet Tooth,Indian,cheap,Murray Hill,7:24 AM,3:12 PM,0.0,true
+16,The Chinese Dim Sum,Korean,medium,Lower East Side,11:53 AM,11:54 AM,0.0,false
+17,The Pasta Place,Mexican,cheap,Astoria,8:04 AM,10:04 PM,4.2,false
+18,The Vietnamese Pho,Greek,medium,Astoria,11:14 AM,7:52 PM,2.2,true
+19,The Brazilian Churrascaria,Brazilian,cheap,Murray Hill,10:53 AM,3:11 PM,0.0,false
+20,The Vietnamese Pho,Mexican,cheap,Astoria,9:10 AM,2:41 PM,4.6,false
+21,The Irish Pub,Japanese,cheap,Long Island City,9:05 AM,11:27 PM,4.4,true
+22,Taco Fiesta,Brazilian,expensive,Park Slope,6:20 AM,4:09 PM,3.8,true
+23,Taco Fiesta,Brazilian,expensive,Hell's Kitchen,9:35 AM,10:47 PM,4.3,false
+24,The Korean BBQ,Chinese,expensive,Chelsea,8:00 AM,12:03 PM,2.7,true
+25,Sushi House,American,cheap,Park Slope,7:20 AM,10:33 AM,1.5,false
+26,The Malaysian Hawker Stall,Italian,expensive,Hell's Kitchen,7:26 AM,11:08 AM,0.9,true
+27,The Salad Bar,Indian,expensive,Lower East Side,10:41 AM,5:34 PM,3.7,false
+28,The Egyptian Falafel,Chinese,cheap,Bedford-Stuyvesant,6:16 AM,12:27 PM,3.8,true
+29,Taco Fiesta,Italian,cheap,Upper East Side,11:08 AM,9:22 PM,0.3,true
+30,The Australian Outback,Chinese,cheap,Murray Hill,7:23 AM,11:07 PM,5.0,true
+31,The American Diner,Chinese,expensive,Jackson Heights,6:44 AM,3:44 PM,3.0,false
+32,Bella Italia,Italian,cheap,Bedford-Stuyvesant,7:40 AM,1:56 PM,4.1,true
+33,The American Diner,Mediterranean,medium,Upper East Side,7:41 AM,12:54 PM,1.4,true
+34,Pizza Paradise,Italian,expensive,Lower East Side,11:11 AM,2:04 PM,4.4,false
+35,The Pasta Place,Indian,medium,Greenwich Village,10:42 AM,5:32 PM,0.8,true
+36,Sushi House,Brazilian,medium,Astoria,8:04 AM,3:52 PM,0.6,true
+37,The Swiss Chocolate Factory,American,medium,Astoria,9:50 AM,11:08 AM,0.9,false
+38,The Vietnamese Pho,Mexican,medium,Washington Heights,9:33 AM,9:30 PM,3.0,false
+39,The Spice Route,Turkish,cheap,Jackson Heights,6:33 AM,4:21 PM,3.7,false
+40,The Ethiopian Injera,Turkish,expensive,Harlem,10:27 AM,4:05 PM,1.3,true
+41,The Vietnamese Pho,Turkish,cheap,Harlem,10:43 AM,9:26 PM,0.1,false
+42,The Seafood Shack,Brazilian,medium,Bedford-Stuyvesant,11:48 AM,6:57 PM,4.6,true
+43,The Spanish Tapas Bar,Vietnamese,medium,Upper East Side,11:56 AM,11:16 AM,3.0,false
+44,The Peruvian Ceviche,Mediterranean,expensive,Upper East Side,11:30 AM,1:30 PM,2.4,false
+45,The Salad Bar,Mexican,cheap,Long Island City,6:40 AM,7:49 PM,1.6,true
+46,The Soup Kitchen,Korean,expensive,Long Island City,7:17 AM,11:34 AM,2.6,false
+47,The Moroccan Tagine,Japanese,expensive,Harlem,10:59 AM,2:18 PM,1.2,false
+48,The Thai Orchid,French,cheap,Bedford-Stuyvesant,6:21 AM,1:30 PM,0.7,false
+49,The Indonesian Satay House,Japanese,medium,Long Island City,11:26 AM,10:00 AM,0.2,true
+50,The Egyptian Falafel,Spanish,expensive,Long Island City,11:43 AM,4:25 PM,1.3,true
+51,The Sandwich Shop,Spanish,expensive,Upper East Side,6:53 AM,9:19 PM,2.4,false
+52,The Chinese Dim Sum,American,medium,Greenwich Village,10:50 AM,4:24 PM,3.9,false
+53,The Indian Curry House,Japanese,expensive,Bushwick,7:08 AM,6:17 PM,0.4,false
+54,The Sandwich Shop,Mediterranean,medium,Murray Hill,8:54 AM,6:44 PM,2.8,false
+55,Sushi House,French,expensive,Bushwick,10:51 AM,11:58 AM,1.7,false
+56,Taco Fiesta,Korean,medium,Jackson Heights,10:15 AM,6:26 PM,1.1,false
+57,The Indian Curry House,Mexican,cheap,Washington Heights,6:26 AM,2:54 PM,1.0,true
+58,The Thai Orchid,Mexican,expensive,Bushwick,8:51 AM,10:15 PM,4.2,true
+59,Sushi House,Indian,cheap,Bedford-Stuyvesant,10:50 AM,7:29 PM,4.5,false
+60,Cafe Delight,Mexican,medium,Washington Heights,8:37 AM,9:07 PM,4.8,true
+61,The Turkish Kebab,Spanish,cheap,Lower East Side,9:41 AM,9:46 PM,2.7,false
+62,The BBQ Pit,Chinese,medium,Jackson Heights,8:18 AM,1:18 PM,4.7,true
+63,The Australian Outback,Indian,expensive,Bedford-Stuyvesant,6:00 AM,7:31 PM,1.8,false
+64,The Hungry Panda,Vietnamese,cheap,Murray Hill,8:42 AM,3:55 PM,3.8,false
+65,The Australian Outback,Japanese,cheap,Chelsea,9:10 AM,10:29 PM,4.8,true
+66,The Malaysian Hawker Stall,Korean,expensive,Murray Hill,11:47 AM,3:42 PM,3.1,false
+67,The Mexican Cantina,Mediterranean,medium,Bushwick,8:11 AM,5:31 PM,3.7,true
+68,The Soup Kitchen,Italian,expensive,Chelsea,9:00 AM,2:08 PM,0.8,true
+69,The Noodle Bar,Brazilian,medium,Bushwick,8:52 AM,10:46 AM,4.2,true
+70,The Veggie Patch,Indian,medium,Jackson Heights,7:04 AM,5:08 PM,0.5,false
+71,The Hungry Panda,Korean,expensive,Lower East Side,8:39 AM,11:10 AM,0.5,false
+72,The Burger Joint,Brazilian,cheap,Bushwick,10:51 AM,2:42 PM,3.0,false
+73,The Australian Outback,Italian,cheap,Park Slope,8:42 AM,2:00 PM,4.4,true
+74,The Coffee Bean,Greek,cheap,Long Island City,8:24 AM,10:42 PM,2.4,true
+75,Taco Fiesta,Italian,cheap,Park Slope,10:36 AM,9:01 PM,3.5,false
+76,The Pasta Place,Korean,cheap,Murray Hill,11:04 AM,11:28 AM,2.8,false
+77,The Sweet Tooth,Chinese,cheap,Hell's Kitchen,8:44 AM,1:03 PM,0.5,false
+78,The Soup Kitchen,Italian,expensive,Park Slope,11:37 AM,11:59 AM,1.9,false
+79,The Coffee Bean,Spanish,expensive,Hell's Kitchen,8:53 AM,6:00 PM,3.7,false
+80,Pizza Paradise,Greek,expensive,Long Island City,8:04 AM,10:13 AM,2.1,true
+81,The British Fish and Chips,Indian,cheap,Park Slope,9:58 AM,10:09 PM,4.4,true
+82,The American Diner,Italian,medium,Upper East Side,6:57 AM,12:29 PM,1.8,true
+83,The Seafood Shack,Indian,expensive,Bedford-Stuyvesant,6:13 AM,6:10 PM,2.6,false
+84,Bella Italia,Japanese,expensive,Bedford-Stuyvesant,8:17 AM,10:44 PM,3.4,true
+85,Cafe Delight,Japanese,medium,Murray Hill,10:47 AM,5:44 PM,3.0,false
+86,The Italian Gelateria,Chinese,expensive,Washington Heights,6:57 AM,6:39 PM,4.5,true
+87,The Vietnamese Pho,Thai,cheap,Williamsburg,9:17 AM,9:44 PM,3.1,true
+88,The Steakhouse,Vietnamese,expensive,Harlem,8:29 AM,11:38 PM,2.8,true
+89,Bella Italia,Mexican,cheap,Park Slope,7:06 AM,8:21 PM,1.0,false
+90,The Korean BBQ,Indian,expensive,Bedford-Stuyvesant,8:21 AM,2:52 PM,2.9,true
+91,The BBQ Pit,Korean,medium,Astoria,6:02 AM,10:32 AM,5.0,true
+92,The Moroccan Tagine,Chinese,cheap,Lower East Side,7:45 AM,4:58 PM,3.0,false
+93,The Greek Taverna,Spanish,cheap,Murray Hill,6:07 AM,10:48 PM,1.6,true
+94,The Noodle Bar,Spanish,cheap,Murray Hill,11:23 AM,1:38 PM,1.1,true
+95,The Belgian Waffle Cart,Indian,medium,Greenwich Village,9:42 AM,11:30 AM,4.6,false
+96,The Veggie Patch,Chinese,expensive,Park Slope,10:19 AM,10:12 PM,2.7,true
+97,The Belgian Waffle Cart,Mediterranean,expensive,Greenwich Village,6:29 AM,2:49 PM,4.9,true
+98,The Burger Joint,Chinese,medium,Long Island City,11:22 AM,1:33 PM,4.6,false
+99,The Hungry Panda,Italian,expensive,Upper East Side,9:51 AM,4:03 PM,5.0,true
+100,The Coffee Bean,Turkish,medium,Jackson Heights,7:22 AM,6:28 PM,2.4,false
+101,The German Beer Hall,Brazilian,medium,Harlem,6:09 AM,2:40 PM,1.3,false
+102,The Mexican Cantina,Turkish,expensive,Bushwick,11:49 AM,10:33 PM,4.3,true
+103,The French Bistro,Japanese,medium,Williamsburg,8:05 AM,11:14 AM,0.3,false
+104,The Egyptian Falafel,Japanese,expensive,Long Island City,11:56 AM,4:44 PM,2.8,true
+105,The Korean BBQ,Turkish,cheap,Lower East Side,11:49 AM,11:35 PM,0.9,false
+106,The Salad Bar,Brazilian,expensive,Long Island City,7:01 AM,11:30 AM,1.3,true
+107,The Italian Gelateria,Mexican,expensive,Williamsburg,7:29 AM,8:41 PM,0.1,false
+108,The Mexican Cantina,Chinese,medium,Greenwich Village,8:19 AM,10:40 AM,0.4,true
+109,The British Fish and Chips,Brazilian,medium,Bedford-Stuyvesant,9:51 AM,11:24 PM,2.3,false
+110,The Pancake Palace,Brazilian,cheap,Park Slope,7:30 AM,10:13 PM,3.6,false
+111,The German Beer Hall,Japanese,expensive,Long Island City,8:52 AM,6:40 PM,0.0,false
+112,The Salad Bar,Indian,medium,Harlem,9:59 AM,8:05 PM,0.2,false
+113,The Brazilian Churrascaria,Spanish,cheap,Long Island City,11:32 AM,11:45 AM,1.4,true
+114,The Veggie Patch,Spanish,expensive,Williamsburg,9:47 AM,10:59 PM,1.2,false
+115,The Veggie Patch,Brazilian,medium,Williamsburg,10:38 AM,1:04 PM,3.1,true
+116,The Dutch Pancake House,Vietnamese,cheap,Long Island City,7:19 AM,8:01 PM,3.7,false
+117,Bella Italia,Vietnamese,cheap,Hell's Kitchen,8:07 AM,10:14 AM,4.7,true
+118,The Spice Route,Spanish,medium,Upper East Side,8:26 AM,8:04 PM,2.2,true
+119,The Sandwich Shop,Turkish,expensive,Park Slope,10:32 AM,10:44 AM,0.5,false
+120,The Burger Joint,Italian,expensive,Bushwick,7:40 AM,11:43 AM,0.6,false
+121,The Mediterranean Grill,French,expensive,Harlem,9:51 AM,5:59 PM,4.1,false
+122,Sushi House,Thai,expensive,Astoria,11:30 AM,10:37 AM,1.8,true
+123,The Swiss Chocolate Factory,Greek,cheap,Bedford-Stuyvesant,6:14 AM,10:34 AM,0.4,false
+124,The Thai Orchid,Japanese,expensive,Hell's Kitchen,10:12 AM,2:03 PM,3.7,false
+125,The Egyptian Falafel,Turkish,medium,Bedford-Stuyvesant,11:29 AM,11:50 PM,4.0,true
+126,The Japanese Teppanyaki,Thai,cheap,Harlem,11:17 AM,10:06 AM,4.4,true
+127,The German Beer Hall,American,cheap,Chelsea,8:07 AM,10:45 AM,4.1,false
+128,The Hungry Panda,Japanese,expensive,Park Slope,7:38 AM,10:51 PM,4.6,true
+129,The Japanese Teppanyaki,Turkish,expensive,Hell's Kitchen,6:46 AM,9:07 PM,3.9,true
+130,The Sweet Tooth,Brazilian,expensive,Bushwick,11:14 AM,2:13 PM,2.2,false
+131,The Pasta Place,Brazilian,medium,Bushwick,9:06 AM,11:04 PM,4.7,true
+132,The Japanese Teppanyaki,Greek,cheap,Long Island City,11:33 AM,8:17 PM,0.5,true
+133,The Pancake Palace,Japanese,medium,Greenwich Village,10:17 AM,6:33 PM,4.0,false
+134,Bella Italia,Spanish,expensive,Jackson Heights,11:44 AM,12:13 PM,3.1,true
+135,The Salad Bar,Thai,medium,Greenwich Village,6:35 AM,10:49 PM,3.8,true
+136,The Coffee Bean,French,cheap,Long Island City,9:54 AM,12:39 PM,0.3,true
+137,The Brazilian Churrascaria,American,medium,Greenwich Village,11:59 AM,3:22 PM,0.5,false
+138,The Indian Curry House,Italian,cheap,Chelsea,6:29 AM,10:51 PM,1.6,false
+139,The Dutch Pancake House,Greek,cheap,Williamsburg,11:02 AM,8:57 PM,2.6,false
+140,Bella Italia,Thai,expensive,Jackson Heights,6:53 AM,3:19 PM,1.9,true
+141,The Greek Taverna,Indian,medium,Park Slope,7:19 AM,5:13 PM,4.4,true
+142,The Salad Bar,Brazilian,medium,Williamsburg,10:35 AM,1:24 PM,4.9,false
+143,The Soup Kitchen,Brazilian,expensive,Long Island City,11:33 AM,7:39 PM,0.6,false
+144,The Steakhouse,Korean,cheap,Murray Hill,8:51 AM,11:39 PM,4.0,true
+145,Bella Italia,Indian,cheap,Jackson Heights,10:53 AM,9:49 PM,4.9,true
+146,The Sweet Tooth,Mediterranean,medium,Williamsburg,6:04 AM,9:16 PM,4.9,true
+147,The Sandwich Shop,French,medium,Williamsburg,7:41 AM,2:46 PM,3.5,true
+148,The Australian Outback,Japanese,cheap,Chelsea,9:25 AM,9:24 PM,2.7,false
+149,The Malaysian Hawker Stall,Korean,medium,Long Island City,6:11 AM,8:14 PM,4.8,false
+150,The Italian Gelateria,Italian,cheap,Lower East Side,6:01 AM,8:37 PM,4.6,true
+151,Pizza Paradise,Thai,expensive,Bedford-Stuyvesant,7:27 AM,12:33 PM,3.3,false
+152,The Noodle Bar,Indian,medium,Park Slope,8:58 AM,4:18 PM,3.3,true
+153,The American Diner,Spanish,cheap,Jackson Heights,6:59 AM,11:15 PM,4.3,true
+154,The Malaysian Hawker Stall,Spanish,expensive,Hell's Kitchen,11:59 AM,3:07 PM,4.3,false
+155,The Vietnamese Pho,Mediterranean,cheap,Chelsea,10:51 AM,8:56 PM,1.5,true
+156,The Vietnamese Pho,Thai,medium,Jackson Heights,11:48 AM,6:51 PM,2.7,true
+157,The Noodle Bar,Vietnamese,cheap,Long Island City,8:23 AM,4:15 PM,4.3,true
+158,The French Bistro,Italian,cheap,Greenwich Village,9:26 AM,1:03 PM,3.9,true
+159,The Ethiopian Injera,Vietnamese,medium,Harlem,9:50 AM,12:12 PM,4.5,false
+160,Bella Italia,Vietnamese,medium,Harlem,11:10 AM,6:56 PM,1.0,false
+161,The Soup Kitchen,Japanese,medium,Long Island City,10:40 AM,6:18 PM,2.4,false
+162,The Waffle House,French,cheap,Long Island City,10:36 AM,9:45 PM,1.5,true
+163,The Waffle House,Korean,expensive,Park Slope,10:49 AM,9:46 PM,1.8,false
+164,The Indonesian Satay House,Vietnamese,medium,Upper East Side,9:30 AM,2:26 PM,1.3,true
+165,The Spice Route,American,expensive,Lower East Side,9:05 AM,10:19 AM,2.1,true
+166,The Salad Bar,Brazilian,expensive,Park Slope,9:22 AM,11:13 PM,0.1,false
+167,The Korean BBQ,Indian,expensive,Lower East Side,11:22 AM,12:15 PM,0.3,false
+168,The Spice Route,Japanese,cheap,Upper East Side,8:50 AM,1:18 PM,0.6,false
+169,Cafe Delight,French,medium,Astoria,10:58 AM,10:31 PM,3.4,false
+170,Sushi House,Italian,cheap,Upper East Side,7:03 AM,11:38 PM,1.2,true
+171,The French Bistro,American,expensive,Bedford-Stuyvesant,8:39 AM,9:22 PM,2.3,true
+172,The Swiss Chocolate Factory,Brazilian,cheap,Upper East Side,10:19 AM,1:48 PM,0.6,false
+173,The American Diner,Thai,medium,Greenwich Village,7:56 AM,4:07 PM,4.6,false
+174,The Steakhouse,Chinese,cheap,Williamsburg,6:30 AM,11:14 PM,0.6,true
+175,The Noodle Bar,Thai,cheap,Long Island City,9:35 AM,2:17 PM,2.0,false
+176,The Pancake Palace,French,expensive,Chelsea,10:42 AM,9:45 PM,0.8,true
+177,The Australian Outback,Turkish,medium,Bedford-Stuyvesant,9:42 AM,10:50 PM,1.6,true
+178,The Belgian Waffle Cart,Brazilian,cheap,Bushwick,6:00 AM,9:42 PM,3.7,false
+179,The Canadian Maple,Brazilian,medium,Greenwich Village,10:46 AM,11:07 AM,0.6,false
+180,Taco Fiesta,American,medium,Long Island City,11:58 AM,5:29 PM,5.0,false
+181,The Mediterranean Grill,Thai,expensive,Bedford-Stuyvesant,6:49 AM,7:09 PM,4.3,false
+182,The Salad Bar,Japanese,expensive,Park Slope,11:10 AM,10:15 PM,4.4,true
+183,The Spice Route,Japanese,expensive,Long Island City,7:05 AM,6:48 PM,3.9,true
+184,The French Bistro,Italian,cheap,Hell's Kitchen,8:21 AM,10:10 AM,1.5,true
+185,The Thai Orchid,Thai,expensive,Long Island City,11:33 AM,9:18 PM,4.7,true
+186,Cafe Delight,Spanish,cheap,Harlem,11:01 AM,9:17 PM,4.9,false
+187,The Steakhouse,Chinese,expensive,Williamsburg,6:24 AM,11:51 AM,3.7,true
+188,The Salad Bar,Thai,cheap,Bushwick,7:16 AM,4:42 PM,2.2,false
+189,The Indian Curry House,Indian,expensive,Chelsea,9:03 AM,11:26 AM,3.4,false
+190,The Burger Joint,Italian,cheap,Upper East Side,10:31 AM,11:18 AM,0.4,false
+191,Bella Italia,French,medium,Murray Hill,8:29 AM,5:15 PM,1.9,true
+192,The Thai Orchid,Spanish,medium,Bedford-Stuyvesant,6:31 AM,10:21 AM,1.2,false
+193,The Korean BBQ,Italian,expensive,Bushwick,9:32 AM,2:07 PM,2.3,true
+194,The Swiss Chocolate Factory,Japanese,cheap,Hell's Kitchen,7:04 AM,12:07 PM,3.4,true
+195,The Steakhouse,Turkish,expensive,Jackson Heights,11:46 AM,11:21 AM,3.4,true
+196,The Pancake Palace,Korean,cheap,Upper East Side,11:06 AM,2:34 PM,0.2,true
+197,The Greek Taverna,Brazilian,cheap,Astoria,8:24 AM,12:19 PM,4.0,false
+198,The Malaysian Hawker Stall,Mediterranean,cheap,Bushwick,6:12 AM,9:21 PM,0.0,true
+199,The Indian Curry House,Greek,medium,Williamsburg,7:39 AM,10:20 PM,3.9,true
+200,Bella Italia,Indian,expensive,Hell's Kitchen,6:36 AM,2:37 PM,2.1,false
+201,The Australian Outback,Thai,expensive,Jackson Heights,7:55 AM,8:26 PM,0.3,false
+202,The Turkish Kebab,Chinese,cheap,Chelsea,8:12 AM,7:02 PM,0.8,false
+203,The Hungry Panda,Greek,cheap,Harlem,11:02 AM,7:46 PM,4.2,false
+204,The Turkish Kebab,Thai,medium,Lower East Side,9:43 AM,7:46 PM,4.4,true
+205,Cafe Delight,Thai,medium,Chelsea,8:51 AM,4:35 PM,3.1,false
+206,The Sandwich Shop,Spanish,expensive,Astoria,6:03 AM,3:02 PM,4.4,true
+207,The Thai Orchid,Mexican,expensive,Long Island City,7:48 AM,6:25 PM,1.3,true
+208,The Egyptian Falafel,Japanese,cheap,Greenwich Village,6:48 AM,7:19 PM,3.5,true
+209,The Malaysian Hawker Stall,Vietnamese,cheap,Chelsea,6:13 AM,11:37 PM,0.6,true
+210,The Swiss Chocolate Factory,Japanese,expensive,Astoria,7:30 AM,3:04 PM,3.9,false
+211,The Korean BBQ,Thai,medium,Jackson Heights,8:22 AM,10:34 PM,4.5,false
+212,The Seafood Shack,Spanish,cheap,Bushwick,8:17 AM,1:38 PM,1.6,true
+213,The Steakhouse,Mediterranean,cheap,Williamsburg,8:27 AM,2:23 PM,4.0,true
+214,The Veggie Patch,Thai,expensive,Harlem,11:37 AM,11:57 PM,4.3,false
+215,The Sandwich Shop,Italian,cheap,Murray Hill,9:07 AM,11:40 PM,4.5,true
+216,Taco Fiesta,Korean,expensive,Park Slope,6:04 AM,10:48 AM,2.0,false
+217,The Burger Joint,Spanish,medium,Upper East Side,10:39 AM,11:30 AM,3.2,true
+218,The Greek Taverna,Turkish,medium,Long Island City,9:08 AM,9:36 PM,0.2,true
+219,The Steakhouse,Brazilian,expensive,Murray Hill,8:12 AM,1:19 PM,4.4,true
+220,The Pancake Palace,Mexican,cheap,Upper East Side,11:46 AM,9:31 PM,3.5,true
+221,The Japanese Teppanyaki,Brazilian,expensive,Bushwick,9:28 AM,7:59 PM,2.0,false
+222,Bella Italia,Spanish,cheap,Upper East Side,11:39 AM,9:15 PM,0.4,false
+223,Sushi House,Spanish,medium,Bushwick,10:16 AM,4:56 PM,2.5,false
+224,The Vietnamese Pho,Thai,cheap,Greenwich Village,9:53 AM,8:14 PM,1.7,false
+225,The Japanese Teppanyaki,Thai,medium,Astoria,11:42 AM,11:00 AM,2.5,true
+226,Bella Italia,Brazilian,expensive,Bushwick,8:59 AM,6:55 PM,1.7,false
+227,The German Beer Hall,Spanish,medium,Harlem,11:06 AM,9:10 PM,4.1,true
+228,The Egyptian Falafel,Turkish,medium,Chelsea,9:06 AM,10:43 AM,2.5,true
+229,The Pasta Place,Greek,medium,Harlem,7:45 AM,8:11 PM,0.6,false
+230,The Noodle Bar,Greek,expensive,Harlem,10:24 AM,6:36 PM,2.4,true
+231,The Pasta Place,Korean,medium,Murray Hill,8:17 AM,4:42 PM,0.2,true
+232,Pizza Paradise,Japanese,expensive,Murray Hill,7:33 AM,2:19 PM,2.5,true
+233,Pizza Paradise,Mexican,medium,Astoria,9:17 AM,7:50 PM,2.0,true
+234,The Malaysian Hawker Stall,Turkish,expensive,Williamsburg,6:54 AM,8:25 PM,4.6,false
+235,The American Diner,Brazilian,cheap,Harlem,7:15 AM,4:34 PM,2.2,false
+236,The Malaysian Hawker Stall,Greek,medium,Murray Hill,10:11 AM,3:18 PM,3.5,false
+237,The Sandwich Shop,Mediterranean,expensive,Chelsea,6:56 AM,10:00 AM,1.3,true
+238,The American Diner,Vietnamese,medium,Bushwick,9:14 AM,1:43 PM,3.7,true
+239,The Brazilian Churrascaria,Indian,expensive,Park Slope,6:18 AM,10:37 AM,0.4,true
+240,The Korean BBQ,Vietnamese,cheap,Williamsburg,7:11 AM,12:20 PM,2.4,false
+241,The Italian Gelateria,Spanish,cheap,Williamsburg,6:43 AM,8:14 PM,0.2,true
+242,The Japanese Teppanyaki,Chinese,expensive,Astoria,8:04 AM,2:21 PM,1.0,true
+243,The Dutch Pancake House,Korean,expensive,Murray Hill,10:16 AM,6:22 PM,4.1,false
+244,The Japanese Teppanyaki,Vietnamese,medium,Park Slope,10:26 AM,11:56 PM,2.8,true
+245,The Indonesian Satay House,Japanese,cheap,Upper East Side,9:03 AM,11:58 AM,3.2,false
+246,The Steakhouse,Korean,cheap,Bedford-Stuyvesant,10:24 AM,11:58 AM,4.9,false
+247,Pizza Paradise,Mediterranean,cheap,Astoria,8:55 AM,9:36 PM,3.7,false
+248,The Veggie Patch,Chinese,cheap,Murray Hill,6:40 AM,10:25 AM,0.9,true
+249,The Belgian Waffle Cart,Greek,medium,Murray Hill,7:04 AM,9:04 PM,0.7,false
+250,The Thai Orchid,Italian,expensive,Chelsea,8:56 AM,1:32 PM,4.9,false
+251,The Indian Curry House,Spanish,medium,Bedford-Stuyvesant,6:41 AM,10:29 PM,1.9,false
+252,The Greek Taverna,Vietnamese,cheap,Long Island City,7:30 AM,10:59 PM,3.7,true
+253,The Japanese Teppanyaki,Greek,medium,Chelsea,10:47 AM,10:27 PM,0.9,false
+254,The Burger Joint,Turkish,expensive,Hell's Kitchen,11:08 AM,5:25 PM,0.8,false
+255,The Thai Orchid,Brazilian,expensive,Greenwich Village,9:38 AM,10:50 PM,1.0,true
+256,The Burger Joint,Thai,medium,Jackson Heights,8:58 AM,6:32 PM,2.1,true
+257,The Soup Kitchen,Mediterranean,cheap,Williamsburg,6:21 AM,12:34 PM,0.5,false
+258,The Korean BBQ,Turkish,cheap,Park Slope,11:39 AM,3:01 PM,4.9,true
+259,The Soup Kitchen,Turkish,cheap,Bedford-Stuyvesant,7:23 AM,12:52 PM,1.0,true
+260,The Pasta Place,Brazilian,expensive,Hell's Kitchen,11:41 AM,10:08 AM,4.9,false
+261,The Mediterranean Grill,Vietnamese,expensive,Chelsea,7:40 AM,4:27 PM,2.2,true
+262,The Seafood Shack,Spanish,cheap,Greenwich Village,8:50 AM,8:47 PM,4.0,false
+263,The Canadian Maple,Brazilian,cheap,Astoria,8:45 AM,10:44 PM,4.8,false
+264,The Swiss Chocolate Factory,Indian,medium,Harlem,10:50 AM,8:05 PM,2.8,false
+265,The German Beer Hall,Indian,cheap,Jackson Heights,8:01 AM,8:36 PM,3.9,true
+266,The Burger Joint,Japanese,medium,Long Island City,8:04 AM,8:12 PM,0.6,true
+267,The Waffle House,Greek,medium,Greenwich Village,6:57 AM,2:34 PM,4.5,true
+268,The Irish Pub,Thai,expensive,Harlem,11:32 AM,11:07 AM,1.9,false
+269,The Dutch Pancake House,French,cheap,Astoria,10:05 AM,5:05 PM,2.6,true
+270,The Italian Gelateria,Turkish,expensive,Long Island City,7:15 AM,10:56 AM,2.4,true
+271,The Swiss Chocolate Factory,Spanish,cheap,Harlem,10:15 AM,2:36 PM,1.2,true
+272,The BBQ Pit,Spanish,medium,Williamsburg,9:53 AM,10:15 AM,4.8,true
+273,The Pasta Place,Chinese,cheap,Hell's Kitchen,7:35 AM,9:59 PM,3.4,false
+274,The Egyptian Falafel,Spanish,expensive,Greenwich Village,9:48 AM,5:15 PM,4.3,true
+275,The Indian Curry House,Italian,expensive,Lower East Side,7:59 AM,10:09 PM,0.3,true
+276,The Hungry Panda,Vietnamese,cheap,Jackson Heights,8:29 AM,6:26 PM,4.0,true
+277,The Australian Outback,Italian,cheap,Park Slope,10:00 AM,1:56 PM,3.2,false
+278,Pizza Paradise,Mexican,expensive,Jackson Heights,7:48 AM,6:59 PM,2.8,false
+279,The Irish Pub,American,expensive,Jackson Heights,11:52 AM,2:33 PM,0.2,false
+280,Taco Fiesta,Italian,cheap,Bushwick,10:39 AM,2:55 PM,2.5,true
+281,Sushi House,Turkish,medium,Hell's Kitchen,11:15 AM,9:18 PM,0.9,false
+282,The Malaysian Hawker Stall,Japanese,cheap,Jackson Heights,11:43 AM,11:31 PM,4.3,false
+283,The Swiss Chocolate Factory,Brazilian,medium,Hell's Kitchen,6:47 AM,5:31 PM,4.1,true
+284,Taco Fiesta,Greek,cheap,Long Island City,11:50 AM,5:09 PM,3.6,true
+285,The Sandwich Shop,Greek,medium,Jackson Heights,9:04 AM,1:46 PM,1.1,false
+286,The Peruvian Ceviche,Brazilian,expensive,Astoria,10:33 AM,4:31 PM,3.7,false
+287,The Pasta Place,Chinese,expensive,Chelsea,9:56 AM,10:29 PM,0.2,true
+288,The Indonesian Satay House,Italian,expensive,Chelsea,9:27 AM,1:10 PM,0.1,true
+289,The Mediterranean Grill,Turkish,medium,Greenwich Village,11:27 AM,12:01 PM,5.0,true
+290,The Peruvian Ceviche,Indian,cheap,Bushwick,9:03 AM,4:30 PM,2.5,false
+291,The Pasta Place,Mediterranean,medium,Astoria,7:51 AM,8:16 PM,0.1,true
+292,The Egyptian Falafel,Spanish,expensive,Astoria,11:47 AM,4:39 PM,1.8,true
+293,The Spanish Tapas Bar,Spanish,medium,Lower East Side,6:00 AM,11:49 AM,2.5,false
+294,The Vietnamese Pho,Spanish,expensive,Long Island City,7:37 AM,6:44 PM,0.8,true
+295,The Sandwich Shop,French,cheap,Murray Hill,10:47 AM,6:25 PM,1.0,false
+296,Taco Fiesta,Brazilian,medium,Chelsea,7:53 AM,2:29 PM,3.0,true
+297,The Pasta Place,Brazilian,medium,Williamsburg,8:33 AM,2:42 PM,2.3,false
+298,The Sandwich Shop,Spanish,expensive,Bushwick,8:50 AM,3:03 PM,3.9,false
+299,Bella Italia,Turkish,expensive,Lower East Side,10:53 AM,11:08 PM,1.0,false
+300,Bella Italia,Korean,medium,Bushwick,6:35 AM,4:52 PM,1.6,true
+301,The Hungry Panda,Greek,expensive,Hell's Kitchen,11:48 AM,4:26 PM,1.1,false
+302,The Belgian Waffle Cart,Indian,expensive,Park Slope,10:55 AM,7:22 PM,3.5,false
+303,The Moroccan Tagine,Vietnamese,cheap,Chelsea,10:25 AM,10:24 PM,4.2,true
+304,The Spanish Tapas Bar,Japanese,cheap,Washington Heights,6:22 AM,10:19 AM,4.1,true
+305,The British Fish and Chips,French,expensive,Bedford-Stuyvesant,11:40 AM,11:08 AM,0.4,true
+306,The Malaysian Hawker Stall,American,expensive,Astoria,11:38 AM,11:03 PM,0.9,true
+307,The Turkish Kebab,Brazilian,expensive,Williamsburg,10:06 AM,11:28 PM,0.6,false
+308,The Egyptian Falafel,Mediterranean,cheap,Hell's Kitchen,8:40 AM,10:51 AM,1.6,false
+309,The Japanese Teppanyaki,French,cheap,Williamsburg,9:29 AM,7:18 PM,1.3,true
+310,The Brazilian Churrascaria,Greek,expensive,Bushwick,9:17 AM,5:04 PM,3.8,true
+311,The Chinese Dim Sum,Turkish,medium,Bushwick,11:10 AM,7:18 PM,4.5,false
+312,Cafe Delight,Spanish,medium,Long Island City,7:44 AM,3:12 PM,3.1,true
+313,The Steakhouse,Turkish,medium,Astoria,11:01 AM,3:17 PM,4.8,true
+314,The Brazilian Churrascaria,Brazilian,cheap,Hell's Kitchen,10:35 AM,2:16 PM,4.7,false
+315,The Sandwich Shop,Thai,expensive,Washington Heights,10:08 AM,11:38 PM,3.4,true
+316,The Canadian Maple,Korean,cheap,Jackson Heights,6:02 AM,4:21 PM,1.6,false
+317,The Korean BBQ,Japanese,cheap,Williamsburg,9:07 AM,10:19 PM,1.1,false
+318,The Thai Orchid,Korean,medium,Chelsea,11:38 AM,10:54 AM,1.0,true
+319,The German Beer Hall,Mexican,expensive,Lower East Side,9:23 AM,7:39 PM,5.0,true
+320,The American Diner,American,expensive,Harlem,10:03 AM,10:01 PM,3.7,false
+321,The French Bistro,Brazilian,medium,Bedford-Stuyvesant,7:02 AM,2:31 PM,1.7,false
+322,The Swiss Chocolate Factory,Brazilian,expensive,Astoria,9:26 AM,1:25 PM,4.2,true
+323,The Korean BBQ,French,cheap,Astoria,6:06 AM,6:32 PM,2.3,false
+324,Taco Fiesta,Vietnamese,cheap,Greenwich Village,8:31 AM,2:53 PM,3.4,false
+325,The Greek Taverna,Brazilian,medium,Williamsburg,6:12 AM,7:19 PM,1.5,true
+326,The Mediterranean Grill,Brazilian,medium,Park Slope,10:39 AM,1:43 PM,4.8,true
+327,The Irish Pub,Brazilian,medium,Upper East Side,11:53 AM,10:35 AM,0.0,false
+328,The Thai Orchid,Korean,medium,Upper East Side,8:04 AM,7:53 PM,3.8,true
+329,The Spanish Tapas Bar,Mediterranean,cheap,Williamsburg,9:22 AM,10:52 PM,0.2,false
+330,The Soup Kitchen,Italian,expensive,Astoria,11:08 AM,7:00 PM,2.0,true
+331,The Ethiopian Injera,Greek,expensive,Greenwich Village,6:46 AM,9:18 PM,2.1,true
+332,The Brazilian Churrascaria,Mexican,expensive,Bedford-Stuyvesant,11:54 AM,3:11 PM,0.0,true
+333,The Noodle Bar,Indian,cheap,Lower East Side,6:54 AM,9:39 PM,0.1,true
+334,The Vietnamese Pho,Mexican,cheap,Chelsea,11:07 AM,11:42 PM,3.9,false
+335,The German Beer Hall,Brazilian,medium,Hell's Kitchen,8:19 AM,3:08 PM,3.0,true
+336,Pizza Paradise,Mediterranean,medium,Murray Hill,6:23 AM,11:04 AM,4.6,false
+337,The Pancake Palace,American,medium,Murray Hill,9:39 AM,2:55 PM,1.4,false
+338,The Spice Route,Italian,expensive,Bushwick,11:14 AM,1:35 PM,2.3,false
+339,The Steakhouse,French,medium,Harlem,9:58 AM,4:26 PM,0.8,false
+340,The British Fish and Chips,Greek,expensive,Jackson Heights,7:49 AM,11:37 AM,4.0,true
+341,The Ethiopian Injera,Chinese,expensive,Lower East Side,8:56 AM,11:28 PM,1.8,true
+342,The Belgian Waffle Cart,Thai,medium,Greenwich Village,9:44 AM,10:11 AM,3.2,true
+343,The American Diner,Mexican,cheap,Lower East Side,10:05 AM,8:55 PM,4.5,true
+344,The Indonesian Satay House,Chinese,cheap,Washington Heights,8:37 AM,11:39 PM,1.6,false
+345,The Hungry Panda,Italian,medium,Bedford-Stuyvesant,6:00 AM,8:41 PM,2.7,true
+346,The Steakhouse,Thai,medium,Jackson Heights,11:21 AM,10:02 AM,0.3,false
+347,The Turkish Kebab,American,cheap,Jackson Heights,10:02 AM,5:42 PM,4.7,true
+348,The Australian Outback,Korean,expensive,Astoria,6:09 AM,10:59 PM,4.5,false
+349,The Sweet Tooth,Korean,expensive,Bedford-Stuyvesant,10:49 AM,11:39 AM,1.5,false
+350,Bella Italia,Korean,cheap,Murray Hill,7:46 AM,9:25 PM,3.2,false
+351,The Canadian Maple,Vietnamese,medium,Bushwick,6:50 AM,7:55 PM,2.1,false
+352,The Korean BBQ,Mexican,cheap,Washington Heights,7:58 AM,9:14 PM,2.2,true
+353,The Italian Gelateria,Indian,medium,Bushwick,8:55 AM,5:16 PM,3.6,false
+354,The Salad Bar,Vietnamese,expensive,Chelsea,7:39 AM,11:36 PM,4.0,false
+355,The Australian Outback,French,cheap,Bushwick,6:28 AM,10:45 AM,1.5,true
+356,The Belgian Waffle Cart,Vietnamese,expensive,Jackson Heights,6:48 AM,3:08 PM,2.3,false
+357,The Peruvian Ceviche,Indian,cheap,Bedford-Stuyvesant,7:19 AM,8:57 PM,1.7,true
+358,The Mexican Cantina,Turkish,expensive,Upper East Side,11:05 AM,11:56 PM,2.0,true
+359,The Canadian Maple,Japanese,cheap,Washington Heights,9:32 AM,4:05 PM,3.4,false
+360,Taco Fiesta,Spanish,cheap,Williamsburg,9:18 AM,10:45 PM,3.9,false
+361,The Korean BBQ,Korean,expensive,Harlem,11:55 AM,12:41 PM,1.6,true
+362,The British Fish and Chips,Japanese,cheap,Washington Heights,10:15 AM,11:47 AM,4.1,false
+363,The Sweet Tooth,Vietnamese,cheap,Murray Hill,11:57 AM,11:18 PM,3.1,false
+364,The Brazilian Churrascaria,Vietnamese,expensive,Bushwick,10:46 AM,11:21 AM,4.9,false
+365,The Coffee Bean,Brazilian,cheap,Astoria,9:27 AM,3:37 PM,1.5,true
+366,Pizza Paradise,Korean,expensive,Upper East Side,7:00 AM,4:08 PM,2.8,false
+367,The Korean BBQ,French,medium,Williamsburg,11:13 AM,7:45 PM,0.1,true
+368,The Salad Bar,Mediterranean,medium,Bushwick,7:30 AM,10:00 AM,1.4,true
+369,The Sweet Tooth,Spanish,medium,Murray Hill,11:50 AM,1:58 PM,2.3,false
+370,The Pancake Palace,Mediterranean,medium,Lower East Side,10:43 AM,8:39 PM,3.5,false
+371,The Italian Gelateria,Greek,cheap,Chelsea,9:31 AM,8:13 PM,2.2,true
+372,Taco Fiesta,Mexican,cheap,Park Slope,11:19 AM,11:12 AM,0.1,true
+373,The Sweet Tooth,Brazilian,medium,Park Slope,7:17 AM,12:20 PM,0.6,true
+374,The American Diner,Turkish,medium,Lower East Side,11:55 AM,1:18 PM,3.9,false
+375,The American Diner,Brazilian,expensive,Astoria,9:49 AM,2:54 PM,4.4,true
+376,The Canadian Maple,Indian,cheap,Greenwich Village,8:11 AM,11:06 AM,4.8,false
+377,The Seafood Shack,Mexican,expensive,Harlem,9:18 AM,2:43 PM,3.4,false
+378,The Burger Joint,Spanish,medium,Harlem,8:56 AM,8:34 PM,1.7,false
+379,The French Bistro,Thai,medium,Williamsburg,7:59 AM,1:28 PM,2.2,true
+380,The Irish Pub,Brazilian,expensive,Long Island City,10:34 AM,8:14 PM,1.9,false
+381,The Waffle House,Greek,expensive,Murray Hill,6:57 AM,3:37 PM,0.4,true
+382,The Canadian Maple,Italian,expensive,Greenwich Village,8:24 AM,11:52 AM,4.7,true
+383,The Steakhouse,Chinese,cheap,Upper East Side,8:41 AM,3:07 PM,0.5,true
+384,The Pasta Place,Spanish,expensive,Murray Hill,11:28 AM,11:24 AM,2.2,false
+385,The Brazilian Churrascaria,Greek,medium,Harlem,9:07 AM,7:40 PM,2.2,true
+386,The Spanish Tapas Bar,Chinese,medium,Chelsea,10:51 AM,8:52 PM,1.5,false
+387,The Vietnamese Pho,French,expensive,Jackson Heights,7:28 AM,9:47 PM,4.3,true
+388,The Pasta Place,American,cheap,Harlem,10:52 AM,6:22 PM,2.1,false
+389,The American Diner,Turkish,expensive,Astoria,6:43 AM,7:20 PM,0.2,true
+390,The Egyptian Falafel,Mexican,medium,Chelsea,8:52 AM,2:08 PM,0.3,false
+391,The Thai Orchid,Chinese,medium,Jackson Heights,6:14 AM,11:27 AM,0.3,false
+392,The Pasta Place,Chinese,medium,Park Slope,6:12 AM,2:48 PM,1.2,false
+393,The Hungry Panda,Spanish,expensive,Bedford-Stuyvesant,10:15 AM,5:44 PM,4.1,true
+394,Taco Fiesta,Japanese,cheap,Upper East Side,6:03 AM,10:08 AM,1.6,true
+395,The Soup Kitchen,French,medium,Lower East Side,7:11 AM,1:14 PM,2.0,true
+396,Pizza Paradise,Korean,medium,Bedford-Stuyvesant,7:02 AM,8:40 PM,4.1,false
+397,The Malaysian Hawker Stall,Vietnamese,cheap,Hell's Kitchen,9:32 AM,1:47 PM,0.6,true
+398,The Japanese Teppanyaki,Mexican,cheap,Murray Hill,10:35 AM,10:15 AM,4.9,false
+399,The Swiss Chocolate Factory,Japanese,cheap,Hell's Kitchen,6:14 AM,6:25 PM,3.8,false
+400,The Mediterranean Grill,Mexican,expensive,Harlem,9:19 AM,4:00 PM,2.2,true
+401,Bella Italia,Spanish,medium,Murray Hill,12:00 PM,3:54 PM,0.5,true
+402,The French Bistro,Greek,expensive,Long Island City,8:28 AM,12:30 PM,3.7,true
+403,The Vietnamese Pho,Indian,cheap,Lower East Side,10:31 AM,9:56 PM,3.9,false
+404,The Seafood Shack,Spanish,medium,Hell's Kitchen,8:05 AM,6:28 PM,1.1,false
+405,Cafe Delight,Mexican,cheap,Park Slope,8:32 AM,12:56 PM,1.9,false
+406,Taco Fiesta,French,cheap,Williamsburg,11:43 AM,12:10 PM,4.4,false
+407,The Australian Outback,Vietnamese,cheap,Park Slope,6:07 AM,8:45 PM,0.1,true
+408,The Steakhouse,Mexican,medium,Washington Heights,7:55 AM,12:46 PM,0.8,true
+409,The Moroccan Tagine,Chinese,cheap,Park Slope,8:49 AM,7:17 PM,0.7,true
+410,The Belgian Waffle Cart,Chinese,medium,Bedford-Stuyvesant,11:26 AM,4:40 PM,1.1,false
+411,Cafe Delight,Chinese,medium,Park Slope,6:56 AM,11:50 AM,0.3,true
+412,The Ethiopian Injera,Korean,cheap,Williamsburg,11:41 AM,5:08 PM,4.6,false
+413,The Pasta Place,Greek,expensive,Hell's Kitchen,11:32 AM,4:07 PM,3.3,true
+414,The Dutch Pancake House,French,medium,Astoria,9:55 AM,8:14 PM,3.8,false
+415,The Belgian Waffle Cart,Mediterranean,medium,Greenwich Village,7:57 AM,9:56 PM,0.7,false
+416,The Japanese Teppanyaki,French,medium,Park Slope,9:43 AM,7:16 PM,2.1,true
+417,The Veggie Patch,Greek,cheap,Washington Heights,6:57 AM,2:20 PM,2.8,false
+418,The BBQ Pit,Greek,medium,Park Slope,11:49 AM,11:04 PM,4.4,false
+419,The Chinese Dim Sum,Brazilian,medium,Greenwich Village,9:14 AM,11:00 PM,4.6,true
+420,The Pasta Place,Korean,cheap,Williamsburg,9:53 AM,3:27 PM,4.6,true
+421,The Veggie Patch,Mediterranean,expensive,Park Slope,10:47 AM,10:04 AM,1.0,false
+422,The Malaysian Hawker Stall,Spanish,medium,Lower East Side,6:53 AM,12:45 PM,5.0,false
+423,The Moroccan Tagine,Vietnamese,expensive,Murray Hill,8:57 AM,3:20 PM,3.1,false
+424,The Swiss Chocolate Factory,French,cheap,Lower East Side,9:55 AM,3:27 PM,4.4,false
+425,The Waffle House,Japanese,expensive,Williamsburg,7:14 AM,1:49 PM,4.0,false
+426,The Swiss Chocolate Factory,Italian,medium,Upper East Side,10:26 AM,6:36 PM,0.0,true
+427,The Ethiopian Injera,Indian,medium,Greenwich Village,6:54 AM,1:08 PM,0.1,true
+428,The Sandwich Shop,Brazilian,medium,Murray Hill,11:19 AM,8:52 PM,3.5,false
+429,Taco Fiesta,Spanish,expensive,Upper East Side,6:07 AM,10:59 AM,1.9,true
+430,The Hungry Panda,Brazilian,medium,Murray Hill,10:50 AM,1:13 PM,2.7,false
+431,The Spanish Tapas Bar,French,medium,Murray Hill,9:06 AM,11:41 AM,0.2,false
+432,The Salad Bar,Spanish,cheap,Chelsea,11:13 AM,11:34 AM,0.3,true
+433,The Thai Orchid,French,medium,Williamsburg,9:25 AM,1:16 PM,4.4,false
+434,The Mexican Cantina,Mexican,medium,Greenwich Village,9:13 AM,1:08 PM,1.5,true
+435,The Dutch Pancake House,Turkish,cheap,Williamsburg,11:49 AM,2:19 PM,0.3,false
+436,The Malaysian Hawker Stall,Korean,expensive,Greenwich Village,6:26 AM,10:50 AM,4.2,false
+437,The BBQ Pit,American,cheap,Washington Heights,7:08 AM,11:00 AM,0.0,false
+438,The Soup Kitchen,Korean,expensive,Greenwich Village,10:45 AM,11:10 PM,4.9,false
+439,The Mediterranean Grill,Spanish,expensive,Bedford-Stuyvesant,11:11 AM,7:14 PM,3.1,false
+440,The Indonesian Satay House,Mexican,expensive,Murray Hill,10:29 AM,4:41 PM,1.9,false
+441,The Dutch Pancake House,Mexican,cheap,Park Slope,9:47 AM,10:18 AM,2.8,false
+442,The Sweet Tooth,Brazilian,medium,Jackson Heights,9:37 AM,3:10 PM,2.5,true
+443,The Indian Curry House,Vietnamese,expensive,Williamsburg,7:01 AM,11:20 AM,0.3,true
+444,The Seafood Shack,Korean,expensive,Chelsea,10:57 AM,11:40 AM,3.3,true
+445,The British Fish and Chips,Mediterranean,expensive,Long Island City,9:03 AM,3:02 PM,2.4,true
+446,Sushi House,Japanese,medium,Williamsburg,9:54 AM,2:00 PM,2.2,false
+447,The Seafood Shack,Japanese,expensive,Jackson Heights,10:12 AM,10:59 PM,0.9,true
+448,The Japanese Teppanyaki,American,cheap,Murray Hill,8:56 AM,6:07 PM,0.8,true
+449,The Malaysian Hawker Stall,Japanese,expensive,Harlem,10:58 AM,11:16 PM,0.9,false
+450,The Indian Curry House,Mediterranean,medium,Long Island City,8:38 AM,10:23 AM,4.7,false
+451,The Italian Gelateria,Greek,expensive,Williamsburg,9:00 AM,10:35 PM,3.2,false
+452,The Sandwich Shop,Chinese,cheap,Greenwich Village,8:35 AM,10:38 AM,0.7,false
+453,Pizza Paradise,Vietnamese,expensive,Park Slope,8:38 AM,10:48 AM,2.1,true
+454,The Korean BBQ,Mediterranean,expensive,Park Slope,6:56 AM,3:22 PM,3.3,true
+455,Cafe Delight,Korean,cheap,Jackson Heights,11:00 AM,11:16 AM,4.3,true
+456,The Mexican Cantina,Thai,cheap,Hell's Kitchen,9:36 AM,11:34 AM,3.7,true
+457,Bella Italia,Spanish,expensive,Greenwich Village,8:55 AM,12:16 PM,1.0,false
+458,The Salad Bar,Italian,medium,Lower East Side,9:31 AM,2:16 PM,0.9,true
+459,The Sandwich Shop,Chinese,expensive,Chelsea,6:47 AM,8:17 PM,2.6,false
+460,The Korean BBQ,Japanese,medium,Bedford-Stuyvesant,6:04 AM,2:30 PM,1.6,false
+461,The Brazilian Churrascaria,Turkish,medium,Harlem,7:15 AM,2:56 PM,2.6,true
+462,The Waffle House,Turkish,cheap,Astoria,6:07 AM,10:43 AM,4.2,true
+463,The Mexican Cantina,Mexican,expensive,Bushwick,7:07 AM,1:10 PM,0.9,true
+464,The Steakhouse,Korean,medium,Williamsburg,7:07 AM,1:53 PM,3.1,false
+465,The Canadian Maple,Spanish,cheap,Lower East Side,7:08 AM,6:34 PM,2.8,false
+466,The Noodle Bar,Japanese,expensive,Williamsburg,11:00 AM,2:08 PM,0.7,true
+467,Pizza Paradise,Turkish,expensive,Hell's Kitchen,7:22 AM,10:54 AM,2.6,true
+468,The Waffle House,Turkish,expensive,Washington Heights,8:50 AM,7:59 PM,4.2,true
+469,The Belgian Waffle Cart,Vietnamese,medium,Astoria,7:00 AM,12:14 PM,3.8,false
+470,The Indonesian Satay House,Mexican,medium,Jackson Heights,9:58 AM,11:09 PM,1.3,false
+471,The Egyptian Falafel,Brazilian,medium,Chelsea,8:01 AM,1:19 PM,2.7,true
+472,The American Diner,French,expensive,Williamsburg,10:15 AM,3:06 PM,4.6,false
+473,The Hungry Panda,Mexican,expensive,Greenwich Village,10:48 AM,9:14 PM,1.4,false
+474,The Mediterranean Grill,Spanish,medium,Chelsea,9:11 AM,8:30 PM,0.3,true
+475,The Soup Kitchen,Korean,expensive,Bushwick,6:37 AM,10:30 AM,3.9,true
+476,The Waffle House,Brazilian,cheap,Astoria,8:42 AM,5:48 PM,2.3,true
+477,The Soup Kitchen,Korean,cheap,Murray Hill,6:06 AM,7:53 PM,2.2,false
+478,The Canadian Maple,Korean,expensive,Washington Heights,9:38 AM,4:17 PM,0.5,true
+479,The Veggie Patch,Turkish,medium,Williamsburg,10:03 AM,6:59 PM,0.5,true
+480,The Hungry Panda,Mediterranean,cheap,Upper East Side,7:04 AM,5:13 PM,1.8,true
+481,Pizza Paradise,Japanese,expensive,Chelsea,9:29 AM,6:51 PM,0.1,false
+482,The Salad Bar,Korean,expensive,Hell's Kitchen,11:31 AM,4:35 PM,0.2,true
+483,Pizza Paradise,Italian,cheap,Park Slope,11:35 AM,5:44 PM,0.6,false
+484,The Italian Gelateria,Mexican,medium,Williamsburg,8:48 AM,11:39 PM,1.0,false
+485,The Veggie Patch,Korean,expensive,Upper East Side,8:54 AM,10:48 PM,3.7,false
+486,The Egyptian Falafel,French,medium,Bedford-Stuyvesant,9:26 AM,10:11 PM,3.8,true
+487,The BBQ Pit,Brazilian,expensive,Bedford-Stuyvesant,7:36 AM,3:43 PM,1.9,true
+488,The Soup Kitchen,Thai,cheap,Park Slope,7:24 AM,9:50 PM,0.2,false
+489,The Chinese Dim Sum,Greek,expensive,Greenwich Village,8:08 AM,10:30 PM,2.5,false
+490,The Coffee Bean,Spanish,medium,Bushwick,7:39 AM,1:25 PM,2.1,false
+491,The Indian Curry House,Spanish,medium,Washington Heights,10:44 AM,1:33 PM,2.3,true
+492,The Malaysian Hawker Stall,Mexican,medium,Bedford-Stuyvesant,10:54 AM,3:17 PM,0.1,true
+493,The Pasta Place,Korean,cheap,Astoria,10:33 AM,11:54 PM,3.1,true
+494,The French Bistro,Vietnamese,cheap,Harlem,6:10 AM,5:35 PM,0.4,false
+495,The Hungry Panda,Turkish,medium,Lower East Side,11:52 AM,7:58 PM,1.8,false
+496,The Malaysian Hawker Stall,Brazilian,medium,Upper East Side,7:41 AM,3:26 PM,4.8,false
+497,The Spice Route,Mediterranean,medium,Hell's Kitchen,10:11 AM,12:53 PM,2.0,true
+498,The Dutch Pancake House,Japanese,medium,Greenwich Village,10:39 AM,1:34 PM,1.6,true
+499,The Korean BBQ,Brazilian,medium,Harlem,8:50 AM,7:48 PM,2.8,false
+500,Sushi House,Spanish,cheap,Washington Heights,9:36 AM,5:07 PM,2.4,false
+501,The Japanese Teppanyaki,Brazilian,cheap,Greenwich Village,8:38 AM,4:15 PM,2.7,true
+502,The Italian Gelateria,Japanese,expensive,Bedford-Stuyvesant,9:44 AM,12:00 PM,0.6,false
+503,The Coffee Bean,Greek,medium,Harlem,9:58 AM,3:38 PM,0.3,true
+504,The Irish Pub,Mediterranean,expensive,Washington Heights,11:49 AM,4:23 PM,1.4,true
+505,The Pasta Place,Italian,cheap,Hell's Kitchen,6:42 AM,7:40 PM,2.2,true
+506,The Steakhouse,Japanese,expensive,Long Island City,7:55 AM,6:30 PM,2.2,true
+507,The Thai Orchid,Italian,expensive,Park Slope,7:11 AM,3:44 PM,3.6,false
+508,The Burger Joint,Brazilian,medium,Washington Heights,9:37 AM,6:44 PM,3.4,true
+509,The Italian Gelateria,American,medium,Park Slope,11:03 AM,12:47 PM,1.4,false
+510,The Sandwich Shop,Italian,medium,Bushwick,11:37 AM,5:53 PM,3.8,false
+511,Taco Fiesta,Spanish,medium,Chelsea,11:02 AM,8:23 PM,0.4,true
+512,The Moroccan Tagine,Vietnamese,cheap,Hell's Kitchen,6:46 AM,7:32 PM,3.2,true
+513,The Noodle Bar,Korean,medium,Washington Heights,11:43 AM,12:41 PM,1.9,false
+514,Bella Italia,Mexican,cheap,Bushwick,8:37 AM,10:22 AM,0.4,true
+515,The Hungry Panda,Greek,medium,Park Slope,9:42 AM,2:41 PM,3.8,false
+516,The Italian Gelateria,Greek,medium,Lower East Side,7:15 AM,4:43 PM,2.2,true
+517,The Japanese Teppanyaki,Italian,medium,Greenwich Village,11:29 AM,12:49 PM,4.4,true
+518,The Swiss Chocolate Factory,Turkish,expensive,Long Island City,11:36 AM,3:46 PM,1.2,true
+519,The Dutch Pancake House,Mediterranean,cheap,Greenwich Village,8:49 AM,11:58 AM,1.2,true
+520,The Salad Bar,Vietnamese,expensive,Astoria,11:31 AM,9:17 PM,3.0,false
+521,The Hungry Panda,American,expensive,Lower East Side,9:41 AM,9:57 PM,3.5,false
+522,The Sweet Tooth,Spanish,cheap,Williamsburg,11:03 AM,4:07 PM,2.2,false
+523,The Vietnamese Pho,Chinese,expensive,Bushwick,8:48 AM,12:59 PM,2.9,false
+524,The Australian Outback,Brazilian,cheap,Murray Hill,11:35 AM,1:32 PM,1.1,true
+525,The Mexican Cantina,Italian,expensive,Long Island City,6:30 AM,9:53 PM,0.8,false
+526,The Ethiopian Injera,Italian,cheap,Murray Hill,6:34 AM,10:43 PM,2.4,true
+527,The Belgian Waffle Cart,Mediterranean,medium,Upper East Side,9:34 AM,11:32 AM,3.3,true
+528,The Turkish Kebab,American,medium,Jackson Heights,9:14 AM,6:21 PM,2.4,false
+529,The Mexican Cantina,Mexican,medium,Washington Heights,7:16 AM,12:00 PM,1.0,true
+530,The Swiss Chocolate Factory,French,medium,Harlem,6:22 AM,4:30 PM,4.9,false
+531,The Salad Bar,Mexican,medium,Lower East Side,9:56 AM,10:20 PM,1.1,false
+532,Pizza Paradise,Indian,cheap,Washington Heights,11:35 AM,2:00 PM,0.8,false
+533,The Peruvian Ceviche,Vietnamese,expensive,Long Island City,8:03 AM,10:36 PM,5.0,true
+534,Taco Fiesta,Turkish,expensive,Harlem,11:27 AM,7:48 PM,0.1,true
+535,The Veggie Patch,Mediterranean,cheap,Upper East Side,9:18 AM,5:46 PM,2.5,false
+536,The Chinese Dim Sum,Japanese,medium,Long Island City,11:11 AM,11:47 PM,0.8,false
+537,The Soup Kitchen,Turkish,medium,Upper East Side,7:07 AM,10:53 PM,4.0,false
+538,The Dutch Pancake House,Chinese,expensive,Upper East Side,6:21 AM,11:44 AM,0.6,true
+539,The Vietnamese Pho,Mexican,medium,Murray Hill,9:19 AM,9:40 PM,3.3,false
+540,Sushi House,French,medium,Astoria,7:44 AM,7:01 PM,3.1,false
+541,The Sweet Tooth,American,medium,Chelsea,6:53 AM,10:32 PM,0.2,false
+542,The Ethiopian Injera,Japanese,cheap,Jackson Heights,8:34 AM,10:51 PM,0.5,false
+543,Bella Italia,Brazilian,cheap,Bushwick,6:51 AM,2:58 PM,3.9,false
+544,The Canadian Maple,Spanish,expensive,Jackson Heights,8:56 AM,9:12 PM,1.4,true
+545,The Italian Gelateria,Mexican,cheap,Long Island City,9:33 AM,3:23 PM,3.6,false
+546,The Mexican Cantina,Chinese,medium,Upper East Side,6:10 AM,11:06 AM,1.1,true
+547,Cafe Delight,Brazilian,cheap,Washington Heights,8:37 AM,6:20 PM,0.2,false
+548,The French Bistro,Japanese,cheap,Williamsburg,6:14 AM,2:32 PM,4.6,false
+549,The Irish Pub,American,expensive,Astoria,8:49 AM,7:22 PM,1.0,false
+550,The Spice Route,Brazilian,expensive,Harlem,9:59 AM,5:24 PM,1.2,true
+551,The French Bistro,Japanese,expensive,Bushwick,11:29 AM,8:20 PM,0.5,false
+552,Pizza Paradise,Italian,cheap,Upper East Side,6:43 AM,10:49 AM,0.9,false
+553,The Japanese Teppanyaki,Korean,medium,Harlem,10:30 AM,10:09 AM,3.8,true
+554,Pizza Paradise,Thai,cheap,Hell's Kitchen,10:23 AM,10:21 PM,1.9,true
+555,The Seafood Shack,Mediterranean,expensive,Upper East Side,8:52 AM,11:15 PM,1.3,true
+556,The Dutch Pancake House,Italian,expensive,Lower East Side,8:22 AM,4:20 PM,2.3,true
+557,The Coffee Bean,Chinese,cheap,Greenwich Village,7:06 AM,2:16 PM,0.4,true
+558,Pizza Paradise,Chinese,medium,Bushwick,7:49 AM,12:15 PM,4.5,false
+559,The German Beer Hall,Chinese,cheap,Astoria,10:08 AM,11:46 AM,2.0,true
+560,The Soup Kitchen,Korean,medium,Murray Hill,9:41 AM,11:08 AM,2.9,true
+561,The Irish Pub,Chinese,cheap,Upper East Side,9:44 AM,8:50 PM,1.5,true
+562,The Burger Joint,Italian,expensive,Hell's Kitchen,11:56 AM,3:40 PM,3.4,false
+563,The Pasta Place,Brazilian,cheap,Washington Heights,7:58 AM,5:24 PM,3.6,true
+564,The Mexican Cantina,Brazilian,cheap,Hell's Kitchen,9:17 AM,4:29 PM,0.4,false
+565,The Pancake Palace,Korean,medium,Washington Heights,8:17 AM,3:32 PM,3.2,false
+566,The Soup Kitchen,Thai,expensive,Hell's Kitchen,9:42 AM,7:03 PM,4.0,true
+567,The Australian Outback,Italian,medium,Astoria,6:37 AM,2:29 PM,2.5,true
+568,The French Bistro,Spanish,expensive,Park Slope,10:17 AM,5:17 PM,1.7,false
+569,The Italian Gelateria,Greek,medium,Harlem,8:29 AM,4:31 PM,1.7,true
+570,The Ethiopian Injera,Chinese,cheap,Bedford-Stuyvesant,6:37 AM,10:19 AM,1.8,false
+571,The Coffee Bean,Japanese,expensive,Park Slope,11:12 AM,3:29 PM,1.6,false
+572,The Waffle House,Thai,medium,Bedford-Stuyvesant,9:21 AM,11:10 PM,2.3,false
+573,The Brazilian Churrascaria,Mexican,medium,Bedford-Stuyvesant,11:46 AM,9:57 PM,2.9,true
+574,The Waffle House,Vietnamese,expensive,Williamsburg,8:10 AM,2:31 PM,2.5,false
+575,The Japanese Teppanyaki,Thai,cheap,Chelsea,9:20 AM,10:38 PM,3.3,true
+576,The Korean BBQ,Turkish,medium,Washington Heights,11:25 AM,5:02 PM,4.0,false
+577,The Mediterranean Grill,American,cheap,Hell's Kitchen,10:58 AM,10:46 PM,1.0,true
+578,The Ethiopian Injera,Italian,cheap,Greenwich Village,7:41 AM,6:02 PM,1.6,true
+579,The Indonesian Satay House,French,medium,Washington Heights,8:12 AM,10:49 PM,3.1,true
+580,The Soup Kitchen,French,expensive,Williamsburg,9:25 AM,4:49 PM,4.0,false
+581,The Hungry Panda,Mexican,medium,Chelsea,9:12 AM,6:47 PM,2.4,false
+582,The British Fish and Chips,American,cheap,Bedford-Stuyvesant,6:40 AM,6:48 PM,2.6,true
+583,The Coffee Bean,American,medium,Bushwick,9:20 AM,7:26 PM,4.5,true
+584,The Greek Taverna,Brazilian,medium,Jackson Heights,7:44 AM,1:58 PM,0.7,true
+585,The Thai Orchid,American,expensive,Astoria,7:13 AM,11:01 PM,1.4,true
+586,The Seafood Shack,Vietnamese,expensive,Washington Heights,7:01 AM,10:03 PM,1.4,false
+587,The Salad Bar,Vietnamese,medium,Bedford-Stuyvesant,11:14 AM,10:29 PM,2.8,false
+588,The Korean BBQ,Thai,cheap,Bedford-Stuyvesant,11:33 AM,9:28 PM,4.8,false
+589,The Greek Taverna,Indian,expensive,Hell's Kitchen,8:04 AM,3:33 PM,4.8,true
+590,Cafe Delight,Greek,medium,Long Island City,10:12 AM,5:23 PM,3.4,true
+591,The Waffle House,Mediterranean,cheap,Jackson Heights,6:18 AM,7:14 PM,3.4,true
+592,The French Bistro,French,expensive,Harlem,10:59 AM,11:03 AM,4.8,false
+593,The Italian Gelateria,Chinese,expensive,Bedford-Stuyvesant,7:47 AM,12:12 PM,4.1,true
+594,The Pasta Place,Indian,expensive,Harlem,10:20 AM,11:43 AM,4.2,true
+595,The Indonesian Satay House,Mexican,cheap,Hell's Kitchen,10:09 AM,6:13 PM,1.6,true
+596,The Salad Bar,Turkish,medium,Williamsburg,6:35 AM,4:56 PM,2.1,false
+597,The Seafood Shack,Vietnamese,cheap,Upper East Side,8:45 AM,1:18 PM,3.9,true
+598,The Salad Bar,Thai,expensive,Hell's Kitchen,6:10 AM,10:09 AM,0.5,false
+599,The Ethiopian Injera,Brazilian,expensive,Washington Heights,10:41 AM,1:00 PM,0.6,true
+600,The Burger Joint,Japanese,expensive,Lower East Side,7:34 AM,11:21 AM,1.7,true
+601,The American Diner,Korean,cheap,Bedford-Stuyvesant,9:56 AM,1:20 PM,1.7,true
+602,The Spice Route,Mediterranean,medium,Park Slope,9:05 AM,2:40 PM,4.3,true
+603,The Thai Orchid,Greek,medium,Jackson Heights,11:11 AM,5:58 PM,1.6,false
+604,The Waffle House,Brazilian,expensive,Jackson Heights,7:01 AM,11:25 AM,4.0,true
+605,The Thai Orchid,Korean,medium,Jackson Heights,8:42 AM,11:49 PM,1.3,true
+606,The Turkish Kebab,Turkish,expensive,Jackson Heights,8:55 AM,4:30 PM,1.8,true
+607,The Waffle House,Greek,medium,Washington Heights,10:09 AM,2:55 PM,1.3,true
+608,The Vietnamese Pho,Brazilian,expensive,Williamsburg,10:33 AM,3:32 PM,5.0,true
+609,The Malaysian Hawker Stall,Spanish,expensive,Hell's Kitchen,10:38 AM,7:50 PM,1.7,true
+610,Cafe Delight,Mediterranean,expensive,Astoria,9:26 AM,6:05 PM,3.7,true
+611,The Pancake Palace,Italian,expensive,Greenwich Village,6:20 AM,9:58 PM,1.6,false
+612,Sushi House,Turkish,medium,Jackson Heights,9:48 AM,3:02 PM,4.8,false
+613,The French Bistro,Korean,medium,Greenwich Village,7:00 AM,2:21 PM,0.2,false
+614,The Mexican Cantina,Indian,cheap,Astoria,8:06 AM,3:35 PM,0.5,false
+615,The Ethiopian Injera,Turkish,cheap,Williamsburg,10:08 AM,10:13 AM,4.9,true
+616,Bella Italia,Turkish,expensive,Bushwick,10:12 AM,4:14 PM,0.9,true
+617,The Turkish Kebab,Japanese,cheap,Greenwich Village,11:29 AM,10:16 PM,4.0,true
+618,The Italian Gelateria,Mediterranean,expensive,Upper East Side,11:52 AM,11:54 AM,3.7,true
+619,The Hungry Panda,Brazilian,expensive,Hell's Kitchen,6:25 AM,6:11 PM,1.9,false
+620,The Malaysian Hawker Stall,French,expensive,Bushwick,11:46 AM,6:37 PM,1.6,false
+621,The American Diner,Thai,expensive,Upper East Side,6:28 AM,3:23 PM,0.0,true
+622,The Burger Joint,Korean,expensive,Williamsburg,11:35 AM,6:13 PM,1.6,false
+623,The Malaysian Hawker Stall,French,expensive,Astoria,8:53 AM,3:51 PM,0.9,false
+624,The Soup Kitchen,Turkish,expensive,Jackson Heights,6:36 AM,1:56 PM,0.9,false
+625,The Peruvian Ceviche,Italian,expensive,Murray Hill,9:15 AM,10:09 PM,1.2,true
+626,The Spanish Tapas Bar,Mediterranean,expensive,Chelsea,6:14 AM,12:43 PM,0.3,true
+627,The Indian Curry House,Greek,expensive,Greenwich Village,8:34 AM,3:50 PM,0.4,false
+628,Taco Fiesta,Indian,expensive,Park Slope,6:36 AM,6:36 PM,1.6,true
+629,The Burger Joint,Greek,medium,Jackson Heights,11:16 AM,10:06 AM,0.7,false
+630,The Veggie Patch,Chinese,expensive,Chelsea,7:25 AM,10:28 PM,2.4,false
+631,The Sweet Tooth,Brazilian,cheap,Harlem,10:12 AM,3:47 PM,1.2,false
+632,The Korean BBQ,Brazilian,cheap,Williamsburg,10:28 AM,5:01 PM,3.2,true
+633,The Canadian Maple,American,medium,Bushwick,11:37 AM,11:51 AM,2.9,true
+634,The Hungry Panda,Italian,expensive,Bedford-Stuyvesant,9:02 AM,2:15 PM,4.7,false
+635,The Irish Pub,Thai,expensive,Astoria,9:46 AM,12:47 PM,4.8,true
+636,The Belgian Waffle Cart,Korean,medium,Chelsea,10:33 AM,4:55 PM,4.9,true
+637,The Pasta Place,Brazilian,medium,Jackson Heights,7:09 AM,11:26 PM,1.1,false
+638,The Sweet Tooth,Vietnamese,expensive,Lower East Side,9:18 AM,4:41 PM,1.9,false
+639,The Seafood Shack,Greek,cheap,Bushwick,7:54 AM,12:28 PM,4.5,true
+640,Bella Italia,Indian,cheap,Bushwick,11:43 AM,6:26 PM,2.0,true
+641,The Malaysian Hawker Stall,Korean,cheap,Astoria,10:28 AM,5:45 PM,4.1,true
+642,The Salad Bar,Greek,expensive,Jackson Heights,10:15 AM,2:16 PM,0.3,false
+643,The Italian Gelateria,Vietnamese,cheap,Jackson Heights,10:25 AM,6:31 PM,2.2,false
+644,The Korean BBQ,Brazilian,expensive,Astoria,7:37 AM,2:55 PM,0.5,false
+645,The Japanese Teppanyaki,Turkish,medium,Astoria,11:53 AM,4:33 PM,2.7,false
+646,The Veggie Patch,Italian,cheap,Park Slope,7:46 AM,8:29 PM,4.1,true
+647,The Steakhouse,Spanish,expensive,Long Island City,6:35 AM,6:59 PM,2.9,false
+648,The British Fish and Chips,Japanese,medium,Astoria,11:56 AM,4:51 PM,3.1,true
+649,The Vietnamese Pho,Spanish,expensive,Bushwick,10:10 AM,5:39 PM,3.5,true
+650,The Peruvian Ceviche,Spanish,expensive,Bushwick,10:47 AM,12:10 PM,0.3,true
+651,The Noodle Bar,Mexican,cheap,Upper East Side,8:34 AM,8:20 PM,1.1,true
+652,The Mediterranean Grill,Mexican,expensive,Murray Hill,7:48 AM,7:28 PM,3.7,false
+653,The Malaysian Hawker Stall,Indian,expensive,Harlem,7:55 AM,9:12 PM,1.8,true
+654,The Spice Route,French,expensive,Williamsburg,9:50 AM,11:49 PM,4.4,false
+655,Sushi House,Vietnamese,cheap,Jackson Heights,10:40 AM,6:14 PM,0.5,false
+656,The Indonesian Satay House,Spanish,cheap,Astoria,9:43 AM,4:40 PM,3.4,true
+657,The Salad Bar,American,expensive,Greenwich Village,6:26 AM,8:12 PM,3.2,false
+658,The Irish Pub,Korean,expensive,Williamsburg,10:32 AM,8:58 PM,1.4,false
+659,The Egyptian Falafel,Italian,expensive,Harlem,7:08 AM,6:40 PM,1.3,false
+660,The BBQ Pit,Turkish,cheap,Astoria,10:45 AM,9:45 PM,5.0,true
+661,The Veggie Patch,Indian,medium,Williamsburg,8:49 AM,12:02 PM,3.8,false
+662,The German Beer Hall,Spanish,medium,Greenwich Village,11:28 AM,11:52 PM,2.2,false
+663,The Egyptian Falafel,Brazilian,expensive,Astoria,12:00 PM,3:53 PM,2.6,true
+664,The Thai Orchid,Thai,cheap,Williamsburg,9:57 AM,11:26 PM,4.5,false
+665,The Noodle Bar,American,medium,Hell's Kitchen,9:25 AM,10:39 PM,3.3,true
+666,The Indian Curry House,Brazilian,medium,Hell's Kitchen,10:12 AM,6:28 PM,4.5,true
+667,The Mediterranean Grill,Thai,cheap,Upper East Side,7:46 AM,11:53 PM,0.0,true
+668,The British Fish and Chips,French,medium,Williamsburg,8:57 AM,11:33 AM,0.4,true
+669,The German Beer Hall,Mediterranean,expensive,Lower East Side,9:16 AM,5:48 PM,2.6,false
+670,The Seafood Shack,Mediterranean,medium,Long Island City,8:42 AM,11:00 PM,4.1,true
+671,The Egyptian Falafel,Italian,cheap,Bushwick,10:19 AM,7:12 PM,2.5,true
+672,The Veggie Patch,Japanese,expensive,Lower East Side,9:10 AM,9:50 PM,3.0,true
+673,The Spanish Tapas Bar,Chinese,expensive,Long Island City,9:20 AM,3:31 PM,3.6,false
+674,The Indian Curry House,Spanish,medium,Murray Hill,10:35 AM,3:56 PM,2.7,true
+675,The Sweet Tooth,Indian,expensive,Bedford-Stuyvesant,11:48 AM,9:20 PM,4.8,true
+676,The Waffle House,Thai,cheap,Hell's Kitchen,8:06 AM,11:50 AM,4.0,true
+677,The Greek Taverna,Thai,expensive,Chelsea,10:11 AM,11:35 AM,4.1,false
+678,The Moroccan Tagine,Mexican,cheap,Williamsburg,9:20 AM,10:34 PM,0.0,true
+679,The Veggie Patch,French,cheap,Chelsea,10:40 AM,1:55 PM,0.7,true
+680,The Peruvian Ceviche,Italian,cheap,Greenwich Village,11:54 AM,3:42 PM,1.7,false
+681,The Australian Outback,Korean,medium,Washington Heights,10:40 AM,11:05 AM,1.5,true
+682,The Mexican Cantina,Japanese,cheap,Bushwick,9:06 AM,9:12 PM,2.2,false
+683,The Indian Curry House,Chinese,expensive,Lower East Side,8:07 AM,10:46 PM,4.2,true
+684,The Australian Outback,Brazilian,medium,Murray Hill,9:54 AM,11:23 PM,2.8,false
+685,The Steakhouse,Turkish,medium,Bushwick,11:43 AM,3:56 PM,0.6,true
+686,The Ethiopian Injera,French,medium,Lower East Side,10:04 AM,12:33 PM,0.9,true
+687,The Hungry Panda,Thai,medium,Jackson Heights,10:53 AM,11:29 PM,2.7,true
+688,The Coffee Bean,Chinese,expensive,Bedford-Stuyvesant,8:15 AM,11:14 AM,1.2,false
+689,Taco Fiesta,French,cheap,Lower East Side,10:11 AM,1:57 PM,4.6,false
+690,The Coffee Bean,Vietnamese,expensive,Astoria,11:10 AM,12:36 PM,2.5,false
+691,The American Diner,Chinese,medium,Upper East Side,9:54 AM,2:27 PM,1.4,true
+692,The Peruvian Ceviche,Mexican,cheap,Williamsburg,9:54 AM,4:44 PM,2.9,true
+693,The Irish Pub,Mediterranean,medium,Chelsea,8:12 AM,10:31 PM,0.4,true
+694,The Salad Bar,Mediterranean,cheap,Long Island City,6:09 AM,5:30 PM,0.8,false
+695,The British Fish and Chips,American,expensive,Park Slope,7:41 AM,1:30 PM,2.9,true
+696,The Ethiopian Injera,Japanese,cheap,Long Island City,6:36 AM,10:45 AM,2.4,false
+697,The Greek Taverna,Japanese,cheap,Williamsburg,11:27 AM,3:51 PM,4.8,false
+698,The Waffle House,Spanish,expensive,Greenwich Village,8:20 AM,6:45 PM,3.8,true
+699,The Dutch Pancake House,Mexican,cheap,Upper East Side,10:04 AM,5:56 PM,3.4,false
+700,The Australian Outback,Korean,medium,Williamsburg,6:43 AM,11:37 AM,0.6,true
+701,The Korean BBQ,Chinese,cheap,Harlem,9:59 AM,7:26 PM,3.9,true
+702,Pizza Paradise,Brazilian,cheap,Lower East Side,10:56 AM,7:08 PM,4.6,true
+703,The Italian Gelateria,Thai,cheap,Chelsea,10:02 AM,10:20 PM,0.7,false
+704,The Egyptian Falafel,Mediterranean,expensive,Bedford-Stuyvesant,10:49 AM,10:06 AM,1.3,false
+705,The Steakhouse,Vietnamese,medium,Greenwich Village,7:24 AM,6:12 PM,2.5,false
+706,The Hungry Panda,Korean,medium,Williamsburg,10:38 AM,3:09 PM,3.1,false
+707,The BBQ Pit,Vietnamese,medium,Jackson Heights,6:25 AM,8:42 PM,0.3,true
+708,The Mexican Cantina,Mediterranean,expensive,Harlem,9:37 AM,7:18 PM,1.4,false
+709,The Brazilian Churrascaria,Thai,expensive,Upper East Side,7:08 AM,2:45 PM,2.6,true
+710,The Salad Bar,Japanese,medium,Chelsea,11:33 AM,9:32 PM,1.2,true
+711,The Malaysian Hawker Stall,Chinese,cheap,Jackson Heights,8:04 AM,6:50 PM,1.7,true
+712,The Spanish Tapas Bar,Turkish,expensive,Astoria,9:06 AM,4:43 PM,1.1,true
+713,The Swiss Chocolate Factory,Spanish,medium,Park Slope,10:56 AM,4:31 PM,2.6,false
+714,The Pancake Palace,Brazilian,medium,Long Island City,6:45 AM,2:59 PM,1.6,false
+715,The Ethiopian Injera,Japanese,cheap,Bedford-Stuyvesant,9:24 AM,2:22 PM,0.8,true
+716,The Sandwich Shop,Indian,expensive,Jackson Heights,10:25 AM,5:18 PM,4.2,true
+717,The Turkish Kebab,Chinese,medium,Long Island City,8:58 AM,4:51 PM,2.3,false
+718,The Brazilian Churrascaria,Chinese,cheap,Park Slope,7:17 AM,7:13 PM,0.7,false
+719,The Noodle Bar,Brazilian,expensive,Washington Heights,8:45 AM,5:28 PM,3.9,false
+720,The Australian Outback,Greek,cheap,Williamsburg,6:08 AM,9:46 PM,1.6,false
+721,The Brazilian Churrascaria,Mediterranean,cheap,Jackson Heights,9:13 AM,6:22 PM,4.6,true
+722,The Ethiopian Injera,Thai,cheap,Bedford-Stuyvesant,10:11 AM,6:30 PM,1.8,false
+723,The German Beer Hall,Italian,expensive,Murray Hill,8:50 AM,7:28 PM,1.0,true
+724,The Pancake Palace,Korean,cheap,Long Island City,9:24 AM,9:39 PM,2.0,false
+725,The Greek Taverna,Vietnamese,cheap,Astoria,6:29 AM,7:47 PM,3.5,false
+726,Pizza Paradise,Spanish,cheap,Lower East Side,7:23 AM,7:01 PM,4.5,false
+727,The Dutch Pancake House,Chinese,expensive,Park Slope,9:20 AM,5:57 PM,4.0,false
+728,The Indonesian Satay House,Indian,expensive,Jackson Heights,11:19 AM,11:14 AM,2.0,false
+729,The Moroccan Tagine,Turkish,cheap,Harlem,11:50 AM,9:34 PM,2.6,true
+730,The Hungry Panda,Chinese,medium,Hell's Kitchen,7:05 AM,8:01 PM,0.2,true
+731,The Malaysian Hawker Stall,American,medium,Bushwick,10:07 AM,2:24 PM,1.1,false
+732,The Belgian Waffle Cart,Mediterranean,medium,Park Slope,9:42 AM,4:57 PM,1.6,true
+733,The Pasta Place,Mexican,medium,Upper East Side,8:20 AM,8:05 PM,2.2,false
+734,The Pancake Palace,American,cheap,Park Slope,8:21 AM,5:12 PM,2.2,false
+735,The Spanish Tapas Bar,Korean,cheap,Astoria,10:08 AM,3:14 PM,0.4,false
+736,Pizza Paradise,Japanese,medium,Williamsburg,11:22 AM,7:30 PM,2.1,true
+737,The Waffle House,Mediterranean,medium,Greenwich Village,6:15 AM,11:49 AM,0.1,true
+738,The Japanese Teppanyaki,Spanish,medium,Williamsburg,6:21 AM,5:19 PM,0.2,false
+739,The Salad Bar,Chinese,medium,Long Island City,11:42 AM,5:12 PM,4.2,true
+740,The Malaysian Hawker Stall,Japanese,cheap,Murray Hill,8:17 AM,4:08 PM,1.2,true
+741,The Pancake Palace,Spanish,cheap,Chelsea,6:24 AM,2:48 PM,1.6,false
+742,Taco Fiesta,Japanese,medium,Harlem,10:18 AM,10:54 PM,4.8,true
+743,The BBQ Pit,Mediterranean,medium,Hell's Kitchen,9:54 AM,4:29 PM,2.3,false
+744,The Hungry Panda,Italian,cheap,Park Slope,8:46 AM,10:27 PM,4.3,false
+745,The Sandwich Shop,American,medium,Bushwick,6:22 AM,11:12 PM,4.0,true
+746,The Sweet Tooth,Mexican,medium,Chelsea,8:50 AM,2:53 PM,1.1,true
+747,The BBQ Pit,French,expensive,Williamsburg,6:40 AM,3:18 PM,4.2,true
+748,The Hungry Panda,Mexican,expensive,Park Slope,8:43 AM,10:18 AM,3.1,false
+749,Sushi House,Turkish,expensive,Bedford-Stuyvesant,9:42 AM,11:53 PM,3.8,true
+750,The Canadian Maple,Chinese,cheap,Park Slope,7:55 AM,9:26 PM,2.7,false
+751,The Dutch Pancake House,Brazilian,medium,Upper East Side,11:01 AM,2:27 PM,2.1,false
+752,The Pancake Palace,Greek,medium,Lower East Side,9:23 AM,9:07 PM,3.9,true
+753,The Noodle Bar,Brazilian,cheap,Astoria,11:21 AM,8:53 PM,2.8,false
+754,The Greek Taverna,Brazilian,cheap,Lower East Side,6:01 AM,1:21 PM,3.7,false
+755,The Mediterranean Grill,French,medium,Long Island City,6:26 AM,11:02 AM,0.6,true
+756,The Belgian Waffle Cart,Brazilian,cheap,Washington Heights,6:15 AM,3:45 PM,3.2,false
+757,The Canadian Maple,Turkish,medium,Chelsea,11:34 AM,1:51 PM,3.2,true
+758,The Ethiopian Injera,Italian,cheap,Astoria,10:41 AM,10:17 AM,3.2,false
+759,The Salad Bar,Italian,medium,Astoria,9:59 AM,4:41 PM,1.2,false
+760,Sushi House,Mexican,cheap,Hell's Kitchen,7:06 AM,6:31 PM,3.0,false
+761,The Burger Joint,Japanese,cheap,Bedford-Stuyvesant,8:08 AM,3:08 PM,2.5,false
+762,The Peruvian Ceviche,Brazilian,cheap,Bushwick,10:44 AM,10:13 AM,3.7,false
+763,Taco Fiesta,Mediterranean,medium,Washington Heights,6:03 AM,11:21 AM,1.8,false
+764,The Thai Orchid,Mexican,cheap,Hell's Kitchen,6:04 AM,12:32 PM,1.9,true
+765,The Pancake Palace,Vietnamese,expensive,Bedford-Stuyvesant,11:11 AM,7:26 PM,4.4,true
+766,Sushi House,Mediterranean,expensive,Jackson Heights,9:39 AM,7:03 PM,4.3,false
+767,The Japanese Teppanyaki,Chinese,medium,Astoria,7:29 AM,2:44 PM,0.5,true
+768,The German Beer Hall,Vietnamese,medium,Chelsea,10:24 AM,1:06 PM,4.3,false
+769,The Pasta Place,Spanish,medium,Upper East Side,9:23 AM,11:04 PM,1.1,false
+770,The Hungry Panda,Indian,cheap,Upper East Side,9:54 AM,2:15 PM,4.1,true
+771,The Indian Curry House,Italian,expensive,Williamsburg,11:42 AM,12:30 PM,1.9,true
+772,The Coffee Bean,Chinese,cheap,Williamsburg,9:49 AM,4:46 PM,0.2,true
+773,The Belgian Waffle Cart,American,cheap,Murray Hill,6:41 AM,11:40 PM,1.9,false
+774,The Thai Orchid,French,expensive,Hell's Kitchen,9:31 AM,2:14 PM,0.4,true
+775,The Indonesian Satay House,American,medium,Park Slope,8:15 AM,11:50 PM,0.2,false
+776,The BBQ Pit,French,expensive,Harlem,9:13 AM,7:29 PM,3.5,true
+777,The Peruvian Ceviche,Mediterranean,medium,Harlem,11:05 AM,11:58 AM,3.2,false
+778,The American Diner,Vietnamese,expensive,Hell's Kitchen,11:42 AM,7:25 PM,1.4,true
+779,The Malaysian Hawker Stall,Brazilian,medium,Upper East Side,8:13 AM,4:03 PM,3.1,false
+780,The Hungry Panda,American,cheap,Murray Hill,9:03 AM,9:30 PM,1.2,false
+781,The Japanese Teppanyaki,Turkish,expensive,Williamsburg,9:45 AM,10:50 PM,5.0,false
+782,The Moroccan Tagine,Italian,expensive,Williamsburg,9:41 AM,9:18 PM,0.5,true
+783,The Malaysian Hawker Stall,Mexican,cheap,Park Slope,9:12 AM,6:13 PM,1.0,false
+784,The German Beer Hall,American,medium,Harlem,6:05 AM,12:54 PM,1.4,true
+785,The American Diner,Turkish,cheap,Bushwick,11:49 AM,11:17 PM,0.9,true
+786,The Swiss Chocolate Factory,Indian,cheap,Astoria,6:38 AM,9:11 PM,0.1,true
+787,The Indonesian Satay House,Thai,medium,Upper East Side,8:29 AM,12:47 PM,1.2,true
+788,The Pancake Palace,Mediterranean,medium,Harlem,7:47 AM,11:31 PM,0.6,true
+789,The Indonesian Satay House,American,cheap,Lower East Side,7:40 AM,5:24 PM,0.1,false
+790,The Pancake Palace,Italian,cheap,Greenwich Village,9:35 AM,6:33 PM,0.6,false
+791,The Indian Curry House,Chinese,cheap,Upper East Side,10:27 AM,11:54 PM,5.0,true
+792,The Brazilian Churrascaria,Korean,expensive,Greenwich Village,6:33 AM,10:31 PM,4.5,false
+793,The Burger Joint,Korean,medium,Long Island City,9:07 AM,5:47 PM,1.0,true
+794,The Pancake Palace,Mediterranean,medium,Lower East Side,7:51 AM,4:15 PM,4.6,false
+795,Cafe Delight,Japanese,medium,Long Island City,10:36 AM,9:43 PM,2.1,true
+796,The Spanish Tapas Bar,Korean,expensive,Harlem,7:18 AM,5:28 PM,3.8,false
+797,The French Bistro,Mexican,expensive,Astoria,11:32 AM,7:34 PM,2.1,false
+798,Bella Italia,Japanese,medium,Hell's Kitchen,10:50 AM,9:26 PM,4.0,false
+799,The Spice Route,Indian,cheap,Astoria,11:19 AM,12:31 PM,4.5,false
+800,The Japanese Teppanyaki,Vietnamese,expensive,Chelsea,7:49 AM,11:50 AM,1.7,false
+801,The Dutch Pancake House,Italian,medium,Bedford-Stuyvesant,10:15 AM,9:57 PM,3.8,false
+802,The Canadian Maple,Korean,medium,Harlem,8:42 AM,1:46 PM,3.1,false
+803,The Sweet Tooth,Brazilian,cheap,Murray Hill,10:10 AM,6:35 PM,3.3,false
+804,The Sandwich Shop,Japanese,medium,Jackson Heights,8:33 AM,7:05 PM,2.5,false
+805,The Mediterranean Grill,Japanese,cheap,Astoria,9:53 AM,10:56 AM,2.2,true
+806,The Korean BBQ,Korean,expensive,Park Slope,8:42 AM,2:42 PM,3.8,false
+807,The Dutch Pancake House,Vietnamese,expensive,Bedford-Stuyvesant,11:04 AM,8:28 PM,4.6,true
+808,The Ethiopian Injera,American,expensive,Bedford-Stuyvesant,11:22 AM,11:37 PM,0.4,true
+809,The American Diner,Brazilian,expensive,Harlem,9:31 AM,2:29 PM,2.4,true
+810,The Japanese Teppanyaki,Vietnamese,expensive,Bushwick,6:55 AM,3:59 PM,1.4,false
+811,The Swiss Chocolate Factory,Turkish,cheap,Lower East Side,11:42 AM,11:35 AM,0.4,true
+812,The Italian Gelateria,French,medium,Greenwich Village,7:19 AM,9:06 PM,4.2,false
+813,The Swiss Chocolate Factory,Vietnamese,cheap,Greenwich Village,10:37 AM,9:47 PM,3.9,true
+814,The Pancake Palace,Japanese,expensive,Bedford-Stuyvesant,7:27 AM,9:38 PM,3.4,true
+815,The Canadian Maple,Spanish,cheap,Washington Heights,6:59 AM,7:58 PM,1.2,true
+816,The Soup Kitchen,Korean,cheap,Park Slope,11:50 AM,8:37 PM,0.1,true
+817,The Spanish Tapas Bar,Italian,cheap,Bedford-Stuyvesant,7:47 AM,10:29 PM,3.0,false
+818,The Irish Pub,Italian,expensive,Astoria,6:49 AM,7:52 PM,3.3,true
+819,The Steakhouse,Korean,medium,Astoria,6:15 AM,11:02 AM,1.6,true
+820,The Coffee Bean,Chinese,cheap,Hell's Kitchen,9:46 AM,7:51 PM,1.0,false
+821,Bella Italia,American,medium,Chelsea,7:47 AM,7:12 PM,1.9,false
+822,The Pancake Palace,Greek,expensive,Williamsburg,9:22 AM,2:47 PM,3.6,true
+823,Sushi House,Japanese,expensive,Greenwich Village,7:24 AM,11:53 AM,4.7,true
+824,The British Fish and Chips,Greek,cheap,Bedford-Stuyvesant,6:05 AM,2:37 PM,3.3,false
+825,The Moroccan Tagine,Vietnamese,expensive,Upper East Side,11:16 AM,11:02 AM,2.2,false
+826,The Peruvian Ceviche,American,medium,Astoria,9:09 AM,9:59 PM,0.1,true
+827,The Burger Joint,Thai,medium,Murray Hill,10:37 AM,9:56 PM,3.0,true
+828,The Belgian Waffle Cart,Korean,medium,Bushwick,11:20 AM,3:46 PM,3.8,true
+829,The Thai Orchid,Turkish,expensive,Chelsea,10:12 AM,12:12 PM,1.0,false
+830,The Veggie Patch,Korean,expensive,Jackson Heights,6:15 AM,6:06 PM,1.5,false
+831,The Waffle House,Mediterranean,cheap,Jackson Heights,7:57 AM,12:37 PM,2.3,false
+832,Taco Fiesta,Mediterranean,expensive,Upper East Side,10:49 AM,3:58 PM,0.9,false
+833,Taco Fiesta,Mediterranean,cheap,Jackson Heights,11:02 AM,12:29 PM,1.2,true
+834,The Sandwich Shop,American,cheap,Jackson Heights,6:20 AM,6:23 PM,3.8,false
+835,The Canadian Maple,Turkish,medium,Astoria,7:40 AM,10:19 PM,3.2,false
+836,The Italian Gelateria,Thai,medium,Washington Heights,7:46 AM,3:10 PM,3.9,true
+837,The Indonesian Satay House,French,expensive,Bedford-Stuyvesant,7:21 AM,1:36 PM,0.9,true
+838,The Sweet Tooth,American,cheap,Greenwich Village,9:36 AM,2:14 PM,2.4,true
+839,Sushi House,Italian,cheap,Astoria,7:12 AM,8:24 PM,2.7,false
+840,The Hungry Panda,French,medium,Long Island City,9:08 AM,11:55 AM,2.5,true
+841,The Brazilian Churrascaria,Japanese,expensive,Astoria,10:30 AM,7:51 PM,3.0,true
+842,The Ethiopian Injera,Italian,medium,Park Slope,9:14 AM,10:03 AM,2.3,true
+843,Bella Italia,Mexican,cheap,Washington Heights,10:55 AM,2:09 PM,0.4,false
+844,The American Diner,Brazilian,medium,Williamsburg,11:01 AM,6:56 PM,2.4,true
+845,The Mediterranean Grill,Spanish,medium,Park Slope,7:53 AM,9:53 PM,4.3,true
+846,The Mexican Cantina,Thai,expensive,Astoria,6:23 AM,11:38 PM,1.1,false
+847,The Spice Route,Japanese,cheap,Bushwick,9:19 AM,3:32 PM,3.4,true
+848,The Sandwich Shop,Korean,cheap,Washington Heights,6:38 AM,4:29 PM,0.9,true
+849,Sushi House,Greek,expensive,Williamsburg,7:15 AM,11:25 PM,0.7,false
+850,Sushi House,Greek,cheap,Astoria,7:51 AM,12:00 PM,4.7,true
+851,The Turkish Kebab,American,expensive,Harlem,7:00 AM,12:12 PM,1.3,true
+852,The Soup Kitchen,Mediterranean,medium,Astoria,11:14 AM,5:54 PM,2.0,true
+853,The Dutch Pancake House,Japanese,medium,Lower East Side,10:17 AM,9:26 PM,3.9,false
+854,The Vietnamese Pho,Vietnamese,medium,Long Island City,7:40 AM,12:32 PM,3.8,true
+855,The Vietnamese Pho,Korean,medium,Washington Heights,7:25 AM,10:31 PM,4.8,true
+856,The Greek Taverna,Indian,cheap,Greenwich Village,8:13 AM,2:19 PM,2.0,true
+857,The Mexican Cantina,Brazilian,expensive,Harlem,8:14 AM,5:41 PM,4.1,false
+858,The German Beer Hall,Mexican,cheap,Harlem,6:40 AM,7:58 PM,3.8,false
+859,The Veggie Patch,Greek,expensive,Hell's Kitchen,8:07 AM,4:45 PM,4.6,true
+860,The Canadian Maple,Japanese,medium,Harlem,9:06 AM,4:04 PM,0.1,true
+861,The Ethiopian Injera,Japanese,cheap,Greenwich Village,10:02 AM,10:28 PM,1.2,false
+862,The Thai Orchid,Thai,cheap,Jackson Heights,9:32 AM,10:48 PM,4.4,true
+863,The Sandwich Shop,Italian,cheap,Lower East Side,9:11 AM,6:48 PM,0.7,true
+864,The Dutch Pancake House,Indian,cheap,Lower East Side,10:07 AM,1:27 PM,0.3,false
+865,The Malaysian Hawker Stall,Greek,medium,Astoria,8:02 AM,7:59 PM,0.3,true
+866,The Belgian Waffle Cart,Chinese,expensive,Bushwick,7:57 AM,2:13 PM,2.9,true
+867,The Peruvian Ceviche,Greek,expensive,Williamsburg,9:08 AM,6:10 PM,2.7,false
+868,The Italian Gelateria,Chinese,expensive,Chelsea,10:12 AM,2:14 PM,3.6,true
+869,The Sweet Tooth,Indian,expensive,Bushwick,6:48 AM,11:37 AM,3.5,true
+870,The Australian Outback,Vietnamese,cheap,Bedford-Stuyvesant,9:16 AM,11:21 PM,2.3,true
+871,The Thai Orchid,French,medium,Harlem,11:51 AM,1:07 PM,2.4,false
+872,The Hungry Panda,Mexican,expensive,Greenwich Village,6:16 AM,12:20 PM,2.5,true
+873,The Swiss Chocolate Factory,Vietnamese,cheap,Washington Heights,9:45 AM,11:34 PM,1.7,false
+874,The Waffle House,Mediterranean,expensive,Jackson Heights,8:44 AM,7:33 PM,4.8,true
+875,The Indian Curry House,Italian,medium,Murray Hill,7:20 AM,11:00 PM,2.2,true
+876,The Moroccan Tagine,Brazilian,cheap,Astoria,11:46 AM,2:35 PM,3.0,true
+877,The Swiss Chocolate Factory,Mediterranean,expensive,Washington Heights,11:30 AM,12:37 PM,3.7,false
+878,The Noodle Bar,Indian,cheap,Bushwick,8:56 AM,2:15 PM,1.5,true
+879,The Moroccan Tagine,Japanese,expensive,Chelsea,8:05 AM,2:50 PM,0.7,false
+880,Cafe Delight,Brazilian,cheap,Williamsburg,7:25 AM,3:21 PM,2.5,true
+881,Cafe Delight,Italian,expensive,Upper East Side,11:50 AM,2:56 PM,2.6,false
+882,The Indian Curry House,Mediterranean,cheap,Upper East Side,7:20 AM,4:30 PM,4.2,true
+883,The Thai Orchid,Chinese,cheap,Lower East Side,10:30 AM,3:06 PM,1.6,false
+884,Bella Italia,Japanese,cheap,Jackson Heights,10:02 AM,1:04 PM,2.7,false
+885,The Brazilian Churrascaria,Spanish,cheap,Long Island City,9:11 AM,4:08 PM,0.7,false
+886,The Burger Joint,Indian,cheap,Williamsburg,10:00 AM,11:00 PM,4.5,true
+887,The BBQ Pit,Thai,cheap,Washington Heights,6:30 AM,11:38 AM,2.5,false
+888,The Steakhouse,Chinese,medium,Greenwich Village,7:02 AM,8:33 PM,1.8,true
+889,The French Bistro,French,expensive,Washington Heights,10:44 AM,4:57 PM,2.9,true
+890,Bella Italia,Mediterranean,expensive,Williamsburg,9:29 AM,8:13 PM,2.8,true
+891,The Irish Pub,Vietnamese,expensive,Long Island City,7:40 AM,6:35 PM,3.8,true
+892,Bella Italia,Italian,expensive,Hell's Kitchen,7:20 AM,6:45 PM,4.8,true
+893,The Irish Pub,Spanish,cheap,Greenwich Village,11:06 AM,3:07 PM,3.7,false
+894,The Salad Bar,Thai,expensive,Hell's Kitchen,8:50 AM,3:50 PM,0.1,false
+895,The Veggie Patch,Italian,expensive,Jackson Heights,8:12 AM,6:19 PM,0.7,false
+896,The Australian Outback,Mediterranean,cheap,Lower East Side,10:29 AM,8:00 PM,4.9,false
+897,The Hungry Panda,French,expensive,Bedford-Stuyvesant,7:14 AM,1:34 PM,4.1,true
+898,The Noodle Bar,Korean,expensive,Greenwich Village,7:36 AM,7:04 PM,5.0,true
+899,Bella Italia,Thai,cheap,Chelsea,11:37 AM,10:45 AM,4.1,false
+900,The Hungry Panda,Spanish,cheap,Greenwich Village,8:10 AM,6:16 PM,0.0,true
+901,The Korean BBQ,Mexican,medium,Washington Heights,8:59 AM,10:30 PM,3.3,true
+902,The Burger Joint,Thai,medium,Bushwick,10:01 AM,3:24 PM,1.6,false
+903,The Spanish Tapas Bar,Greek,expensive,Greenwich Village,10:43 AM,7:04 PM,3.9,false
+904,The Veggie Patch,Japanese,expensive,Harlem,8:08 AM,6:58 PM,2.6,false
+905,The Thai Orchid,Chinese,cheap,Upper East Side,6:52 AM,5:22 PM,2.3,true
+906,The Hungry Panda,Japanese,expensive,Chelsea,9:43 AM,9:42 PM,1.4,false
+907,The Spice Route,Indian,cheap,Murray Hill,7:57 AM,11:03 PM,2.6,false
+908,The Spice Route,Mexican,medium,Hell's Kitchen,10:53 AM,11:32 AM,1.1,false
+909,The Steakhouse,French,medium,Williamsburg,7:31 AM,8:40 PM,1.2,true
+910,Sushi House,Japanese,medium,Harlem,10:01 AM,4:35 PM,2.3,true
+911,The Pasta Place,Turkish,cheap,Washington Heights,10:41 AM,5:01 PM,0.5,true
+912,The Pasta Place,Chinese,expensive,Astoria,9:26 AM,1:18 PM,0.1,true
+913,The Hungry Panda,Turkish,medium,Hell's Kitchen,9:38 AM,7:33 PM,0.8,true
+914,The American Diner,Vietnamese,expensive,Murray Hill,11:50 AM,12:12 PM,1.8,false
+915,Cafe Delight,French,medium,Jackson Heights,11:42 AM,11:36 PM,4.1,false
+916,The Seafood Shack,Turkish,cheap,Harlem,8:07 AM,9:14 PM,1.0,true
+917,The Turkish Kebab,French,medium,Washington Heights,9:54 AM,4:55 PM,2.2,true
+918,The Pasta Place,Japanese,expensive,Williamsburg,9:26 AM,12:24 PM,1.1,true
+919,The Burger Joint,Mexican,cheap,Upper East Side,10:54 AM,11:18 AM,4.1,true
+920,The Burger Joint,Indian,cheap,Washington Heights,7:25 AM,4:59 PM,2.1,false
+921,The German Beer Hall,Chinese,cheap,Lower East Side,11:36 AM,10:34 PM,4.0,true
+922,The Greek Taverna,Japanese,expensive,Upper East Side,8:44 AM,11:42 PM,4.8,false
+923,The Malaysian Hawker Stall,Mexican,cheap,Murray Hill,8:01 AM,12:29 PM,2.8,true
+924,The Waffle House,Greek,expensive,Williamsburg,6:17 AM,4:34 PM,3.7,true
+925,The Belgian Waffle Cart,Chinese,expensive,Murray Hill,10:50 AM,1:04 PM,3.7,true
+926,The Indonesian Satay House,Turkish,expensive,Upper East Side,6:29 AM,4:12 PM,0.8,true
+927,The Coffee Bean,Mediterranean,expensive,Upper East Side,8:43 AM,5:06 PM,4.4,true
+928,The Indonesian Satay House,Indian,expensive,Washington Heights,11:02 AM,11:22 PM,2.6,true
+929,Sushi House,Korean,cheap,Greenwich Village,6:14 AM,10:24 AM,4.9,true
+930,The Australian Outback,Mexican,expensive,Hell's Kitchen,9:35 AM,12:58 PM,0.1,false
+931,The Ethiopian Injera,American,expensive,Greenwich Village,8:52 AM,9:15 PM,1.6,false
+932,The Chinese Dim Sum,Japanese,expensive,Upper East Side,9:00 AM,1:41 PM,4.5,false
+933,The Indonesian Satay House,Indian,expensive,Lower East Side,9:30 AM,11:52 PM,4.0,false
+934,The Swiss Chocolate Factory,Italian,medium,Park Slope,7:11 AM,5:14 PM,2.8,true
+935,The Hungry Panda,Vietnamese,cheap,Hell's Kitchen,10:29 AM,8:36 PM,1.2,true
+936,The British Fish and Chips,Indian,medium,Harlem,6:00 AM,10:23 AM,4.8,true
+937,The Peruvian Ceviche,Mediterranean,expensive,Upper East Side,11:48 AM,12:58 PM,3.1,false
+938,The Brazilian Churrascaria,Greek,medium,Jackson Heights,8:02 AM,12:35 PM,2.5,true
+939,The BBQ Pit,Indian,cheap,Greenwich Village,8:32 AM,2:08 PM,4.3,false
+940,The Soup Kitchen,Korean,medium,Upper East Side,9:16 AM,6:57 PM,4.9,true
+941,The Mexican Cantina,Mexican,expensive,Lower East Side,9:27 AM,6:55 PM,4.9,true
+942,The Indian Curry House,Italian,expensive,Bedford-Stuyvesant,11:26 AM,3:57 PM,0.8,false
+943,The Irish Pub,Greek,medium,Williamsburg,10:02 AM,7:40 PM,4.9,false
+944,The Coffee Bean,French,medium,Park Slope,8:44 AM,10:18 AM,2.3,true
+945,The Seafood Shack,Chinese,cheap,Long Island City,7:43 AM,5:10 PM,0.3,false
+946,The Thai Orchid,Italian,expensive,Harlem,10:24 AM,10:47 PM,0.5,true
+947,The Indian Curry House,American,cheap,Astoria,11:15 AM,8:02 PM,4.9,false
+948,Bella Italia,French,expensive,Hell's Kitchen,8:33 AM,6:08 PM,4.4,false
+949,The Burger Joint,Chinese,expensive,Hell's Kitchen,6:03 AM,12:47 PM,4.0,false
+950,Bella Italia,Korean,expensive,Murray Hill,10:19 AM,12:14 PM,2.2,true
+951,The Dutch Pancake House,Brazilian,expensive,Washington Heights,11:18 AM,1:58 PM,0.5,true
+952,The Mexican Cantina,Korean,cheap,Washington Heights,9:38 AM,5:29 PM,2.7,false
+953,The Chinese Dim Sum,French,medium,Upper East Side,6:09 AM,1:14 PM,3.2,true
+954,The Moroccan Tagine,American,medium,Bedford-Stuyvesant,11:40 AM,6:48 PM,2.5,false
+955,The BBQ Pit,Chinese,medium,Bushwick,6:59 AM,12:19 PM,3.5,true
+956,The Sweet Tooth,Mediterranean,expensive,Jackson Heights,9:34 AM,6:05 PM,1.5,false
+957,The Moroccan Tagine,Italian,expensive,Park Slope,11:37 AM,2:04 PM,4.0,false
+958,The Pancake Palace,Mediterranean,medium,Greenwich Village,9:53 AM,10:24 PM,2.2,true
+959,The Belgian Waffle Cart,Mediterranean,cheap,Bushwick,8:50 AM,10:49 PM,0.9,true
+960,The Spice Route,Spanish,cheap,Long Island City,11:00 AM,6:56 PM,3.7,true
+961,The Thai Orchid,Korean,medium,Bedford-Stuyvesant,7:01 AM,7:49 PM,0.4,true
+962,The Coffee Bean,Indian,cheap,Williamsburg,10:23 AM,6:12 PM,1.3,false
+963,The Vietnamese Pho,Korean,medium,Jackson Heights,8:43 AM,8:44 PM,4.7,false
+964,The Peruvian Ceviche,Mediterranean,expensive,Jackson Heights,6:42 AM,10:21 PM,2.6,false
+965,The Moroccan Tagine,Mediterranean,expensive,Upper East Side,7:58 AM,10:34 PM,0.1,true
+966,The Pasta Place,American,medium,Washington Heights,11:13 AM,8:12 PM,2.4,false
+967,The Sandwich Shop,Brazilian,expensive,Long Island City,7:18 AM,4:47 PM,0.3,false
+968,The Pasta Place,Indian,cheap,Bushwick,11:16 AM,4:17 PM,1.5,false
+969,The BBQ Pit,American,cheap,Bushwick,10:23 AM,3:32 PM,2.0,true
+970,The BBQ Pit,Mexican,medium,Hell's Kitchen,8:16 AM,9:26 PM,2.5,true
+971,The Indonesian Satay House,Turkish,expensive,Bedford-Stuyvesant,8:52 AM,9:08 PM,3.0,false
+972,The British Fish and Chips,Japanese,cheap,Lower East Side,8:49 AM,1:15 PM,2.6,false
+973,The Malaysian Hawker Stall,Mediterranean,cheap,Washington Heights,8:42 AM,11:58 PM,1.3,false
+974,The Japanese Teppanyaki,Spanish,cheap,Long Island City,10:49 AM,3:36 PM,0.3,true
+975,The Coffee Bean,American,cheap,Long Island City,8:44 AM,4:48 PM,4.5,true
+976,The Veggie Patch,Brazilian,expensive,Long Island City,9:02 AM,8:59 PM,4.7,false
+977,The Peruvian Ceviche,Thai,cheap,Upper East Side,10:59 AM,4:37 PM,4.2,true
+978,Bella Italia,Mediterranean,medium,Astoria,9:56 AM,2:34 PM,2.1,true
+979,The Steakhouse,Vietnamese,cheap,Lower East Side,11:47 AM,9:20 PM,3.4,false
+980,The Peruvian Ceviche,Japanese,medium,Lower East Side,10:29 AM,11:15 PM,3.6,false
+981,The Hungry Panda,Thai,cheap,Lower East Side,10:11 AM,1:16 PM,2.8,false
+982,The Mexican Cantina,Korean,medium,Harlem,10:09 AM,12:54 PM,4.2,false
+983,The Thai Orchid,Italian,expensive,Long Island City,8:09 AM,12:14 PM,0.7,true
+984,The Indonesian Satay House,Italian,medium,Chelsea,11:48 AM,8:18 PM,2.1,false
+985,Pizza Paradise,Brazilian,expensive,Chelsea,7:49 AM,9:22 PM,3.5,false
+986,The Spice Route,Mexican,expensive,Bedford-Stuyvesant,10:08 AM,10:11 PM,2.4,false
+987,The Indian Curry House,Italian,medium,Park Slope,9:14 AM,8:17 PM,2.0,true
+988,The Thai Orchid,Turkish,medium,Park Slope,10:13 AM,10:36 AM,2.4,false
+989,The Veggie Patch,Chinese,expensive,Harlem,6:59 AM,6:10 PM,4.6,false
+990,The Dutch Pancake House,Vietnamese,medium,Murray Hill,10:50 AM,10:34 AM,4.8,false
+991,The Veggie Patch,American,medium,Murray Hill,9:12 AM,3:05 PM,2.4,true
+992,The Turkish Kebab,Mediterranean,expensive,Astoria,8:25 AM,9:08 PM,0.1,true
+993,The German Beer Hall,Chinese,expensive,Chelsea,9:12 AM,12:26 PM,1.6,false
+994,The Ethiopian Injera,Thai,cheap,Murray Hill,11:43 AM,7:02 PM,0.3,true
+995,Sushi House,American,cheap,Harlem,10:28 AM,1:21 PM,4.7,false
+996,Bella Italia,Mediterranean,expensive,Lower East Side,11:58 AM,7:01 PM,1.3,true
+997,The Mediterranean Grill,Brazilian,cheap,Chelsea,11:36 AM,7:09 PM,1.2,true
+998,The Canadian Maple,Chinese,cheap,Astoria,8:16 AM,6:56 PM,1.9,false
+999,The Mexican Cantina,American,medium,Greenwich Village,9:59 AM,10:05 AM,2.3,true
+1000,The Hungry Panda,Indian,cheap,Jackson Heights,8:50 AM,11:04 AM,2.1,true
