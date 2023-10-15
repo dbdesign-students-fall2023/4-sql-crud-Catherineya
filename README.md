@@ -27,7 +27,7 @@ CREATE TABLE reviews (
 );
 ```
 ### Practice data
-I created a mock data for restaurants using [mockaroo.com](https://mockaroo.com) and download it as a CSV file [restaurants.csv](). 
+I created a mock data for restaurants using [mockaroo.com](https://mockaroo.com) and download it as a CSV file [restaurants.csv](https://github.com/dbdesign-students-fall2023/4-sql-crud-Catherineya/blob/8447252b9686400ebbd41321065010d95d4988ad/data/restaurants.csv). 
 
 ###Import data
 I used the following code to import the data into the database:
