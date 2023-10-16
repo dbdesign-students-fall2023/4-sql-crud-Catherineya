@@ -87,7 +87,7 @@ CREATE TABLE Posts (
 );
 ```
 ### Practice data
-I created two mock data for users using [mockaroo.com](https://mockaroo.com) and download it as [users.csv]() and [post.csv]().
+I created two mock data for users using [mockaroo.com](https://mockaroo.com) and download it as [users.csv](https://github.com/dbdesign-students-fall2023/4-sql-crud-Catherineya/blob/b9f3b6345be6125d8b286da6fe633b3b95c57b92/data/users.csv) and [post.csv](https://github.com/dbdesign-students-fall2023/4-sql-crud-Catherineya/blob/b9f3b6345be6125d8b286da6fe633b3b95c57b92/data/posts.csv).
 
 ###Import data
 I used the following code to import the data into the database:
